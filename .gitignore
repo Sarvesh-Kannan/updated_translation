@@ -1,0 +1,25 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Resource files
+*.properties
+*.tmx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/ 
