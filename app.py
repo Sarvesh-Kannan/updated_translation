@@ -483,8 +483,8 @@ def main():
             )
 
         text_to_translate = st.text_area("Enter text to translate:", height=100)
-        
-        if st.button("Translate"):
+
+if st.button("Translate"):
             if text_to_translate:
                 with st.spinner("Translating..."):
                     # Auto-detect Tamil script and override source language if needed
@@ -510,7 +510,7 @@ def main():
                             columns=['Source Text', 'Source Language', 'Target Text', 
                                    'Target Language', 'Is Sentence', 'Timestamp'])
             st.dataframe(df, use_container_width=True)
-        else:
+    else:
             st.info("No translations stored yet.")
     
     # Add about section in sidebar
