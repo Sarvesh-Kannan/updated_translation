@@ -1,0 +1,2994 @@
+[
+  {
+    "id": 1,
+    "english": "High Priority",
+    "tamil": "\\u0B89\\u0BAF\\u0BB0\\u0BCD \\u0BAE\\u0BC1\\u0BA9\\u0BCD\\u0BA9\\u0BC1\\u0BB0\\u0BBF\\u0BAE\\u0BC8",
+    "hindi": "\\u0909\\u091A\\u094D\\u091A \\u092A\\u094D\\u0930\\u093E\\u0925\\u092E\\u093F\\u0915\\u0924\\u093E",
+    "context": "compose.priority_high",
+    "lang": "en-IN"
+  },
+  {
+    "id": 2,
+    "english": "Filter",
+    "tamil": "\\u0BB5\\u0B9F\\u0BBF\\u0B95\\u0B9F\\u0BCD\\u0B9F\\u0BC1",
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930",
+    "context": "email_list.filter",
+    "lang": "en-IN"
+  },
+  {
+    "id": 3,
+    "english": "Underline",
+    "tamil": "\\u0B95\\u0BC0\\u0B9A\\u0BCD \\u0B95\\u0BCB\\u0B9F\\u0BC1",
+    "hindi": "\\u0905\\u0902\\u0921\\u0930\\u0932\\u093E\\u0907\\u0928",
+    "context": "compose.underline",
+    "lang": "en-IN"
+  },
+  {
+    "id": 4,
+    "english": "Date",
+    "tamil": "\\u0BA4\\u0BC7\\u0BA4\\u0BBF",
+    "hindi": "\\u0924\\u093E\\u0930\\u0940\\u0916",
+    "context": "search.search_date",
+    "lang": "en-IN"
+  },
+  {
+    "id": 5,
+    "english": "Unmark as Important",
+    "tamil": "\\u0BAE\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BBF\\u0BAF\\u0BAE\\u0BBF\\u0BB2\\u0BCD\\u0BB2\\u0BC8 \\u0B8E\\u0BA9 \\u0B95\\u0BC1\\u0BB1\\u0BBF",
+    "hindi": "\\u092E\\u0939\\u0924\\u094D\\u0935\\u092A\\u0942\\u0930\\u094D\\u0923 \\u091A\\u093F\\u0939\\u094D\\u0928 \\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "email_list.unmark_important",
+    "lang": "en-IN"
+  },
+  {
+    "id": 6,
+    "english": "Signature saved",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u0938\\u0947\\u0935 \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.signature_saved",
+    "lang": "en-IN"
+  },
+  {
+    "id": 7,
+    "english": "Custom Folders",
+    "tamil": null,
+    "hindi": "\\u0915\\u0938\\u094D\\u091F\\u092E \\u092B\\u094B\\u0932\\u094D\\u0921\\u0930",
+    "context": "folders.custom_folders",
+    "lang": "en-IN"
+  },
+  {
+    "id": 8,
+    "english": "Attachments",
+    "tamil": "\\u0B87\\u0BA3\\u0BC8\\u0BAA\\u0BCD\\u0BAA\\u0BC1\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0905\\u0924\\u093E\\u091A\\u092E\\u0947\\u0902\\u091F",
+    "context": "email_view.attachments",
+    "lang": "en-IN"
+  },
+  {
+    "id": 9,
+    "english": "Label Color",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0915\\u093E \\u0930\\u0902\\u0917",
+    "context": "labels.label_color",
+    "lang": "en-IN"
+  },
+  {
+    "id": 10,
+    "english": "Select",
+    "tamil": null,
+    "hindi": "\\u091A\\u0941\\u0928\\u0947\\u0902",
+    "context": "common.select",
+    "lang": "en-IN"
+  },
+  {
+    "id": 11,
+    "english": "Enable",
+    "tamil": null,
+    "hindi": "\\u0938\\u0915\\u094D\\u0937\\u092E \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.enable",
+    "lang": "en-IN"
+  },
+  {
+    "id": 12,
+    "english": "Email Notifications",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0938\\u0942\\u091A\\u0928\\u093E\\u090F\\u0902",
+    "context": "notifications.email_notifications",
+    "lang": "en-IN"
+  },
+  {
+    "id": 13,
+    "english": "New Email",
+    "tamil": "\\u0BAA\\u0BC1\\u0BA4\\u0BBF\\u0BAF \\u0BAE\\u0BC6\\u0BAF\\u0BBF\\u0BB2\\u0BCD",
+    "hindi": "\\u0928\\u090F \\u092E\\u0947\\u0932",
+    "context": "compose.new_email",
+    "lang": "en-IN"
+  },
+  {
+    "id": 14,
+    "english": "Archive",
+    "tamil": "\\u0B86\\u0BB0\\u0BCD\\u0B95\\u0BC8\\u0BB5\\u0BCD",
+    "hindi": "\\u0906\\u0930\\u094D\\u0915\\u093E\\u0907\\u0935 \\u0915\\u0930\\u0947\\u0902",
+    "context": "navigation.archive",
+    "lang": "en-IN"
+  },
+  {
+    "id": 15,
+    "english": "Label applied",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0932\\u0917\\u093E\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.label_applied",
+    "lang": "en-IN"
+  },
+  {
+    "id": 16,
+    "english": "Important",
+    "tamil": "\\u0BAE\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BBF\\u0BAF\\u0BAE\\u0BBE\\u0BA9",
+    "hindi": "\\u092E\\u0939\\u0924\\u094D\\u0935\\u092A\\u0942\\u0930\\u094D\\u0923",
+    "context": "navigation.important",
+    "lang": "en-IN"
+  },
+  {
+    "id": 17,
+    "english": "Delete",
+    "tamil": "\\u0BA8\\u0BC0\\u0B95\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.delete",
+    "lang": "en-IN"
+  },
+  {
+    "id": 18,
+    "english": "Delete Contact",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "contacts.delete_contact",
+    "lang": "en-IN"
+  },
+  {
+    "id": 19,
+    "english": "Font Size",
+    "tamil": "\\u0B8E\\u0BB4\\u0BC1\\u0BA4\\u0BCD\\u0BA4\\u0BC1 \\u0B85\\u0BB3\\u0BB5\\u0BC1",
+    "hindi": "\\u092B\\u0949\\u0928\\u094D\\u091F \\u0938\\u093E\\u0907\\u091C\\u093C",
+    "context": "compose.font_size",
+    "lang": "en-IN"
+  },
+  {
+    "id": 20,
+    "english": "Phone Number",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0928 \\u0928\\u0902\\u092C\\u0930",
+    "context": "contacts.phone_number",
+    "lang": "en-IN"
+  },
+  {
+    "id": 21,
+    "english": "Delete Filter",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "filters.delete_filter",
+    "lang": "en-IN"
+  },
+  {
+    "id": 22,
+    "english": "BCC",
+    "tamil": "\\u0BAA\\u0BBF\\u0BB8\\u0BBF\\u0BB8\\u0BBF",
+    "hindi": "\\u092C\\u0940\\u0938\\u0940\\u0938\\u0940",
+    "context": "compose.bcc",
+    "lang": "en-IN"
+  },
+  {
+    "id": 23,
+    "english": "Size",
+    "tamil": "\\u0B85\\u0BB3\\u0BB5\\u0BC1",
+    "hindi": "\\u0906\\u0915\\u093E\\u0930",
+    "context": "email_list.sort_size",
+    "lang": "en-IN"
+  },
+  {
+    "id": 24,
+    "english": "Server error",
+    "tamil": null,
+    "hindi": "\\u0938\\u0930\\u094D\\u0935\\u0930 \\u0924\\u094D\\u0930\\u0941\\u091F\\u093F",
+    "context": "errors.server_error",
+    "lang": "en-IN"
+  },
+  {
+    "id": 25,
+    "english": "Label",
+    "tamil": "\\u0BB2\\u0BC7\\u0BAA\\u0BB2\\u0BCD",
+    "hindi": "\\u0932\\u0947\\u092C\\u0932",
+    "context": "email_list.label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 26,
+    "english": "Upload failed",
+    "tamil": null,
+    "hindi": "\\u0905\\u092A\\u0932\\u094B\\u0921 \\u0905\\u0938\\u092B\\u0932",
+    "context": "errors.upload_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 27,
+    "english": "Invalid email address",
+    "tamil": null,
+    "hindi": "\\u0905\\u092E\\u093E\\u0928\\u094D\\u092F \\u0908\\u092E\\u0947\\u0932 \\u092A\\u0924\\u093E",
+    "context": "errors.invalid_email",
+    "lang": "en-IN"
+  },
+  {
+    "id": 28,
+    "english": "Filter Rules",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930 \\u0928\\u093F\\u092F\\u092E",
+    "context": "filters.filter_rules",
+    "lang": "en-IN"
+  },
+  {
+    "id": 29,
+    "english": "Company",
+    "tamil": null,
+    "hindi": "\\u0915\\u0902\\u092A\\u0928\\u0940",
+    "context": "contacts.company",
+    "lang": "en-IN"
+  },
+  {
+    "id": 30,
+    "english": "Subject",
+    "tamil": "\\u0BB5\\u0BBF\\u0B9F\\u0BAY\\u0BAE\\u0BCD",
+    "hindi": "\\u0935\\u093F\\u0937\\u092F",
+    "context": "search.search_subject",
+    "lang": "en-IN"
+  },
+  {
+    "id": 31,
+    "english": "Open",
+    "tamil": null,
+    "hindi": "\\u0916\\u094B\\u0932\\u0947\\u0902",
+    "context": "common.open",
+    "lang": "en-IN"
+  },
+  {
+    "id": 32,
+    "english": "Print",
+    "tamil": "\\u0B85\\u0B9A\\u0BCD\\u0B9A\\u0BBF\\u0B9F\\u0BC1",
+    "hindi": "\\u092A\\u094D\\u0930\\u093F\\u0902\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.print",
+    "lang": "en-IN"
+  },
+  {
+    "id": 33,
+    "english": "Create Signature",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u092C\\u0928\\u093E\\u090F\\u0902",
+    "context": "signatures.create_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 34,
+    "english": "Reply Signature",
+    "tamil": null,
+    "hindi": "\\u091C\\u0935\\u093E\\u092C \\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930",
+    "context": "signatures.reply_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 35,
+    "english": "Manage Labels",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u092A\\u094D\\u0930\\u092C\\u0902\\u0927\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "labels.manage_labels",
+    "lang": "en-IN"
+  },
+  {
+    "id": 36,
+    "english": "Recent Contacts",
+    "tamil": null,
+    "hindi": "\\u0939\\u093E\\u0932 \\u0915\\u0947 \\u0938\\u0902\\u092A\\u0930\\u094D\\u0915",
+    "context": "contacts.recent_contacts",
+    "lang": "en-IN"
+  },
+  {
+    "id": 37,
+    "english": "Folder Name",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u0915\\u093E \\u0928\\u093E\\u092E",
+    "context": "folders.folder_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 38,
+    "english": "Remove",
+    "tamil": "\\u0BA8\\u0BC0\\u0B95\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "attachments.remove",
+    "lang": "en-IN"
+  },
+  {
+    "id": 39,
+    "english": "Success",
+    "tamil": "\\u0BB5\\u0BC6\\u0BB1\\u0BCD\\u0BB1\\u0BBF",
+    "hindi": "\\u0938\\u092B\\u0932\\u0924\\u093E",
+    "context": "app.success",
+    "lang": "en-IN"
+  },
+  {
+    "id": 40,
+    "english": "Sender",
+    "tamil": "\\u0B85\\u0BA9\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BC1\\u0BA8\\u0BB0\\u0BCD",
+    "hindi": "\\u092D\\u0947\\u091C\\u0928\\u0947 \\u0935\\u093E\\u0932\\u093E",
+    "context": "email_list.sort_sender",
+    "lang": "en-IN"
+  },
+  {
+    "id": 41,
+    "english": "Maximum file size exceeded",
+    "tamil": "\\u0B85\\u0BA4\\u0BBF\\u0B95\\u0BAA\\u0B9F\\u0BCD\\u0B9A \\u0B95\\u0BCB\\u0BB5\\u0BC8 \\u0B85\\u0BB3\\u0BB5\\u0BC1 \\u0BAE\\u0BC0\\u0BB1\\u0BAA\\u0BCD\\u0BAA\\u0B9F\\u0BCD\\u0B9F\\u0BA4\\u0BC1",
+    "hindi": "\\u0905\\u0927\\u093F\\u0915\\u0924\\u092E \\u092B\\u093E\\u0907\\u0932 \\u0906\\u0915\\u093E\\u0930 \\u092A\\u093E\\u0930 \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "attachments.max_size_exceeded",
+    "lang": "en-IN"
+  },
+  {
+    "id": 42,
+    "english": "Inbox",
+    "tamil": "\\u0B87\\u0BA9\\u0BCD\\u0BAA\\u0BBE\\u0B95\\u0BCD\\u0BB8\\u0BCD",
+    "hindi": "\\u0907\\u0928\\u092C\\u0949\\u0915\\u094D\\u0938",
+    "context": "navigation.inbox",
+    "lang": "en-IN"
+  },
+  {
+    "id": 43,
+    "english": "Create Group",
+    "tamil": null,
+    "hindi": "\\u0917\\u094D\\u0930\\u0941\\u092A \\u092C\\u0928\\u093E\\u090F\\u0902",
+    "context": "contacts.create_group",
+    "lang": "en-IN"
+  },
+  {
+    "id": 44,
+    "english": "Numbered List",
+    "tamil": "\\u0B8E\\u0BA3\\u0BCD \\u0BAA\\u0B9F\\u0BCD\\u0B9F\\u0BBF\\u0BAE\\u0BCD",
+    "hindi": "\\u0928\\u0902\\u092C\\u0930\\u094D\\u0921 \\u0932\\u093F\\u0938\\u094D\\u091F",
+    "context": "compose.numbered_list",
+    "lang": "en-IN"
+  },
+  {
+    "id": 45,
+    "english": "Connection Failed",
+    "tamil": null,
+    "hindi": "\\u0915\\u0928\\u0947\\u0915\\u094D\\u0936\\u0928 \\u0905\\u0938\\u092B\\u0932",
+    "context": "account.connection_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 46,
+    "english": "Bullet List",
+    "tamil": "\\u0BAA\\u0BC1\\u0BB3\\u0BCD\\u0BB3\\u0BBF \\u0BAA\\u0B9F\\u0BCD\\u0B9F\\u0BBF\\u0BAE\\u0BCD",
+    "hindi": "\\u092C\\u0941\\u0932\\u0947\\u091F \\u0932\\u093F\\u0938\\u094D\\u091F",
+    "context": "compose.bullet_list",
+    "lang": "en-IN"
+  },
+  {
+    "id": 47,
+    "english": "Signature Name",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u0915\\u093E \\u0928\\u093E\\u092E",
+    "context": "signatures.signature_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 48,
+    "english": "Deselect",
+    "tamil": null,
+    "hindi": "\\u091A\\u092F\\u0928 \\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "common.deselect",
+    "lang": "en-IN"
+  },
+  {
+    "id": 49,
+    "english": "No labels applied",
+    "tamil": null,
+    "hindi": "\\u0915\\u094B\\u0908 \\u0932\\u0947\\u092C\\u0932 \\u0932\\u093E\\u0917\\u0942 \\u0928\\u0939\\u0940\\u0902",
+    "context": "labels.no_labels",
+    "lang": "en-IN"
+  },
+  {
+    "id": 50,
+    "english": "Notifications",
+    "tamil": null,
+    "hindi": "\\u0938\\u0942\\u091A\\u0928\\u093E\\u090F\\u0902",
+    "context": "settings.notifications",
+    "lang": "en-IN"
+  },
+  {
+    "id": 51,
+    "english": "Hide Details",
+    "tamil": "\\u0BB5\\u0BBF\\u0BB5\\u0BB0\\u0B99\\u0BCD\\u0B95\\u0BB3\\u0BC8 \\u0BAE\\u0BB1\\u0BC8",
+    "hindi": "\\u0935\\u093F\\u0935\\u0930\\u0923 \\u091B\\u093F\\u092A\\u093E\\u090F\\u0902",
+    "context": "email_view.hide_details",
+    "lang": "en-IN"
+  },
+  {
+    "id": 52,
+    "english": "New Password",
+    "tamil": null,
+    "hindi": "\\u0928\\u092F\\u093E \\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921",
+    "context": "security.new_password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 53,
+    "english": "Previous",
+    "tamil": "\\u0BAE\\u0BC1\\u0BA8\\u0BCD\\u0BA4\\u0BC8\\u0BAF",
+    "hindi": "\\u092A\\u093F\\u091B\\u0932\\u093E",
+    "context": "email_view.previous",
+    "lang": "en-IN"
+  },
+  {
+    "id": 54,
+    "english": "Reply",
+    "tamil": "\\u0BAA\\u0BA4\\u0BBF\\u0BB2\\u0B9F\\u0BBF",
+    "hindi": "\\u091C\\u0935\\u093E\\u092C \\u0926\\u0947\\u0902",
+    "context": "email_view.reply",
+    "lang": "en-IN"
+  },
+  {
+    "id": 55,
+    "english": "Loading...",
+    "tamil": "\\u0B8F\\u0BB1\\u0BCD\\u0BB1\\u0BAA\\u0BCD\\u0BAA\\u0B9F\\u0BC1\\u0B95\\u0BBF\\u0BB1\\u0BA4\\u0BC1...",
+    "hindi": "\\u0932\\u094B\\u0921 \\u0939\\u094B \\u0930\\u0939\\u093E \\u0939\\u0948...",
+    "context": "app.loading",
+    "lang": "en-IN"
+  },
+  {
+    "id": 56,
+    "english": "Failed to save",
+    "tamil": null,
+    "hindi": "\\u0938\\u0947\\u0935 \\u0915\\u0930\\u0928\\u0947 \\u092E\\u0947\\u0902 \\u0905\\u0938\\u092B\\u0932",
+    "context": "errors.save_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 57,
+    "english": "Edit Filter",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930 \\u0938\\u0902\\u092A\\u093E\\u0926\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "filters.edit_filter",
+    "lang": "en-IN"
+  },
+  {
+    "id": 58,
+    "english": "Delete Folder",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "folders.delete_folder",
+    "lang": "en-IN"
+  },
+  {
+    "id": 59,
+    "english": "Timezone",
+    "tamil": null,
+    "hindi": "\\u0938\\u092E\\u092F \\u0915\\u094D\\u0937\\u0947\\u0924\\u094D\\u0930",
+    "context": "settings.timezone",
+    "lang": "en-IN"
+  },
+  {
+    "id": 60,
+    "english": "New Mail Sound",
+    "tamil": null,
+    "hindi": "\\u0928\\u090F \\u092E\\u0947\\u0932 \\u0915\\u0940 \\u0906\\u0935\\u093E\\u091C\\u093C",
+    "context": "notifications.new_mail_sound",
+    "lang": "en-IN"
+  },
+  {
+    "id": 61,
+    "english": "Density",
+    "tamil": null,
+    "hindi": "\\u0918\\u0928\\u0924\\u094D\\u0935",
+    "context": "settings.density",
+    "lang": "en-IN"
+  },
+  {
+    "id": 62,
+    "english": "Email marked as unread",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0915\\u094B \\u0905\\u0928\\u092A\\u0922\\u093C\\u093E \\u0915\\u0947 \\u0930\\u0942\\u092A \\u092E\\u0947\\u0902 \\u091A\\u093F\\u0939\\u094D\\u0928\\u093F\\u0924 \\u0915\\u093F\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.email_marked_unread",
+    "lang": "en-IN"
+  },
+  {
+    "id": 63,
+    "english": "On",
+    "tamil": null,
+    "hindi": "\\u0911\\u0928",
+    "context": "common.on",
+    "lang": "en-IN"
+  },
+  {
+    "id": 64,
+    "english": "Show Unread",
+    "tamil": "\\u0BAA\\u0B9F\\u0BBF\\u0B95\\u0BCD\\u0B95\\u0BBE\\u0BA4\\u0BA4\\u0BC8 \\u0B95\\u0BBE\\u0B9F\\u0BCD\\u0B9F\\u0BC1",
+    "hindi": "\\u0905\\u0928\\u092A\\u0922\\u093C\\u0947 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "email_list.show_unread",
+    "lang": "en-IN"
+  },
+  {
+    "id": 65,
+    "english": "Label removed",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0939\\u091F\\u093E\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.label_removed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 66,
+    "english": "Start Time",
+    "tamil": null,
+    "hindi": "\\u0936\\u0941\\u0930\\u0942 \\u0915\\u093E \\u0938\\u092E\\u092F",
+    "context": "notifications.start_time",
+    "lang": "en-IN"
+  },
+  {
+    "id": 67,
+    "english": "Search",
+    "tamil": "\\u0BA4\\u0BC7\\u0B9F\\u0BC1",
+    "hindi": "\\u0916\\u094B\\u091C\\u0947\\u0902",
+    "context": "email_list.search",
+    "lang": "en-IN"
+  },
+  {
+    "id": 68,
+    "english": "Message",
+    "tamil": "\\u0B9A\\u0BC6\\u0BAF\\u0BCD\\u0BA4\\u0BBF",
+    "hindi": "\\u0938\\u0902\\u0926\\u0947\\u0936",
+    "context": "compose.message",
+    "lang": "en-IN"
+  },
+  {
+    "id": 69,
+    "english": "Edit Signature",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u0938\\u0902\\u092A\\u093E\\u0926\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "signatures.edit_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 70,
+    "english": "Email archived",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0906\\u0930\\u094D\\u0915\\u093E\\u0907\\u0935 \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.email_archived",
+    "lang": "en-IN"
+  },
+  {
+    "id": 71,
+    "english": "Confirm Password",
+    "tamil": null,
+    "hindi": "\\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921 \\u0915\\u0940 \\u092A\\u0941\\u0937\\u094D\\u091F\\u093F \\u0915\\u0930\\u0947\\u0902",
+    "context": "security.confirm_password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 72,
+    "english": "Folders",
+    "tamil": "\\u0B85\\u0BB5\\u0BC8\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930",
+    "context": "navigation.folders",
+    "lang": "en-IN"
+  },
+  {
+    "id": 73,
+    "english": "Then forward to",
+    "tamil": null,
+    "hindi": "\\u0924\\u094B \\u0906\\u0917\\u0947 \\u092D\\u0947\\u091C\\u0947\\u0902",
+    "context": "filters.then_forward",
+    "lang": "en-IN"
+  },
+  {
+    "id": 74,
+    "english": "Accounts",
+    "tamil": null,
+    "hindi": "\\u0916\\u093E\\u0924\\u0947",
+    "context": "settings.accounts",
+    "lang": "en-IN"
+  },
+  {
+    "id": 75,
+    "english": "Add Contact",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u091C\\u094B\\u0921\\u093C\\u0947\\u0902",
+    "context": "contacts.add_contact",
+    "lang": "en-IN"
+  },
+  {
+    "id": 76,
+    "english": "This folder is empty",
+    "tamil": null,
+    "hindi": "\\u092F\\u0939 \\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u0916\\u093E\\u0932\\u0940 \\u0939\\u0948",
+    "context": "folders.folder_empty",
+    "lang": "en-IN"
+  },
+  {
+    "id": 77,
+    "english": "Port",
+    "tamil": null,
+    "hindi": "\\u092A\\u094B\\u0930\\u094D\\u091F",
+    "context": "account.port",
+    "lang": "en-IN"
+  },
+  {
+    "id": 78,
+    "english": "First Name",
+    "tamil": null,
+    "hindi": "\\u092A\\u0939\\u0932\\u093E \\u0928\\u093E\\u092E",
+    "context": "contacts.first_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 79,
+    "english": "Insert Link",
+    "tamil": "\\u0B87\\u0BA3\\u0BC8\\u0BAA\\u0BCD\\u0BAA\\u0BC8 \\u0B9A\\u0BC7\\u0BB0\\u0BCD",
+    "hindi": "\\u0932\\u093F\\u0902\\u0915 \\u0921\\u093E\\u0932\\u0947\\u0902",
+    "context": "compose.insert_link",
+    "lang": "en-IN"
+  },
+  {
+    "id": 80,
+    "english": "General",
+    "tamil": null,
+    "hindi": "\\u0938\\u093E\\u092E\\u093E\\u0928\\u094D\\u092F",
+    "context": "settings.general",
+    "lang": "en-IN"
+  },
+  {
+    "id": 81,
+    "english": "Yesterday",
+    "tamil": null,
+    "hindi": "\\u092C\\u0940\\u0924\\u093E \\u0915\\u0932",
+    "context": "common.yesterday",
+    "lang": "en-IN"
+  },
+  {
+    "id": 82,
+    "english": "Edit",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u093E\\u0926\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.edit",
+    "lang": "en-IN"
+  },
+  {
+    "id": 83,
+    "english": "Create Filter",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930 \\u092C\\u0928\\u093E\\u090F\\u0902",
+    "context": "filters.create_filter",
+    "lang": "en-IN"
+  },
+  {
+    "id": 84,
+    "english": "Incoming Server",
+    "tamil": null,
+    "hindi": "\\u0906\\u0928\\u0947 \\u0935\\u093E\\u0932\\u093E \\u0938\\u0930\\u094D\\u0935\\u0930",
+    "context": "account.incoming_server",
+    "lang": "en-IN"
+  },
+  {
+    "id": 85,
+    "english": "Name",
+    "tamil": null,
+    "hindi": "\\u0928\\u093E\\u092E",
+    "context": "common.name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 86,
+    "english": "Groups",
+    "tamil": null,
+    "hindi": "\\u0917\\u094D\\u0930\\u0941\\u092A",
+    "context": "contacts.groups",
+    "lang": "en-IN"
+  },
+  {
+    "id": 87,
+    "english": "Next",
+    "tamil": "\\u0B85\\u0B9F\\u0BC1\\u0BA4\\u0BCD\\u0BA4",
+    "hindi": "\\u0905\\u0917\\u0932\\u093E",
+    "context": "email_view.next",
+    "lang": "en-IN"
+  },
+  {
+    "id": 88,
+    "english": "Italic",
+    "tamil": "\\u0B9A\\u0BB0\\u0BBF\\u0BB5\\u0BC1",
+    "hindi": "\\u0907\\u091F\\u0948\\u0932\\u093F\\u0915",
+    "context": "compose.italic",
+    "lang": "en-IN"
+  },
+  {
+    "id": 89,
+    "english": "Email deleted",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.email_deleted",
+    "lang": "en-IN"
+  },
+  {
+    "id": 90,
+    "english": "Contacts",
+    "tamil": "\\u0BA4\\u0BC7\\u0BC1\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915",
+    "context": "contacts.contacts",
+    "lang": "en-IN"
+  },
+  {
+    "id": 91,
+    "english": "To",
+    "tamil": "\\u0B95\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0915\\u093F\\u0938\\u0915\\u094B",
+    "context": "email_view.to",
+    "lang": "en-IN"
+  },
+  {
+    "id": 92,
+    "english": "Add to Contacts",
+    "tamil": "\\u0BA4\\u0BC7\\u0B9F\\u0BC1\\u0B95\\u0BB3\\u0BBF\\u0BB2\\u0BCD \\u0B9A\\u0BC7\\u0BB0\\u0BCD",
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u092E\\u0947\\u0902 \\u091C\\u094B\\u0921\\u093C\\u0947\\u0902",
+    "context": "email_view.add_to_contacts",
+    "lang": "en-IN"
+  },
+  {
+    "id": 93,
+    "english": "Mark as Important",
+    "tamil": "\\u0BAE\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BBF\\u0BAF\\u0BAE\\u0BBE\\u0B95 \\u0B95\\u0BC1\\u0BB1\\u0BBF",
+    "hindi": "\\u092E\\u0939\\u0924\\u094D\\u0935\\u092A\\u0942\\u0930\\u094D\\u0923 \\u091A\\u093F\\u0939\\u094D\\u0928\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.mark_important",
+    "lang": "en-IN"
+  },
+  {
+    "id": 94,
+    "english": "Drafts",
+    "tamil": "\\u0BB5\\u0BB0\\u0BC8\\u0BB5\\u0BC1\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0921\\u094D\\u0930\\u093E\\u092B\\u094D\\u091F",
+    "context": "navigation.drafts",
+    "lang": "en-IN"
+  },
+  {
+    "id": 95,
+    "english": "Starred",
+    "tamil": "\\u0BA8\\u0B9F\\u0BCD\\u0B9A\\u0BA4\\u0BCD\\u0BA4\\u0BBF\\u0BB0\\u0B99\\u0BCD\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0924\\u093E\\u0930\\u093E\\u0902\\u0915\\u093F\\u0924",
+    "context": "navigation.starred",
+    "lang": "en-IN"
+  },
+  {
+    "id": 96,
+    "english": "Then delete",
+    "tamil": null,
+    "hindi": "\\u0924\\u094B \\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "filters.then_delete",
+    "lang": "en-IN"
+  },
+  {
+    "id": 97,
+    "english": "Show Badge Count",
+    "tamil": null,
+    "hindi": "\\u092C\\u0948\\u091C \\u0917\\u093F\\u0928\\u0924\\u0940 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "notifications.badge_count",
+    "lang": "en-IN"
+  },
+  {
+    "id": 98,
+    "english": "Off",
+    "tamil": null,
+    "hindi": "\\u0911\\u092B",
+    "context": "common.off",
+    "lang": "en-IN"
+  },
+  {
+    "id": 99,
+    "english": "Contact added",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u091C\\u094B\\u0921\\u093C\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.contact_added",
+    "lang": "en-IN"
+  },
+  {
+    "id": 100,
+    "english": "Yes",
+    "tamil": null,
+    "hindi": "\\u0939\\u093E\\u0901",
+    "context": "common.yes",
+    "lang": "en-IN"
+  },
+  {
+    "id": 101,
+    "english": "An unknown error occurred",
+    "tamil": null,
+    "hindi": "\\u0905\\u091C\\u094D\\u091E\\u093E\\u0924 \\u0924\\u094D\\u0930\\u0941\\u091F\\u093F \\u0906\\u0908",
+    "context": "errors.unknown_error",
+    "lang": "en-IN"
+  },
+  {
+    "id": 102,
+    "english": "Clear",
+    "tamil": null,
+    "hindi": "\\u0938\\u093E\\u092B \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.clear",
+    "lang": "en-IN"
+  },
+  {
+    "id": 103,
+    "english": "Refresh",
+    "tamil": "\\u0BAA\\u0BC1\\u0BA4\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BBF",
+    "hindi": "\\u0930\\u093F\\u092B\\u094D\\u0930\\u0947\\u0936 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.refresh",
+    "lang": "en-IN"
+  },
+  {
+    "id": 104,
+    "english": "Send Later",
+    "tamil": "\\u0BAA\\u0BBF\\u0BA9\\u0BCD\\u0BA9\\u0BB0\\u0BCD \\u0B85\\u0BA9\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u092C\\u093E\\u0926 \\u092E\\u0947\\u0902 \\u092D\\u0947\\u091C\\u0947\\u0902",
+    "context": "compose.send_later",
+    "lang": "en-IN"
+  },
+  {
+    "id": 105,
+    "english": "Upload Failed",
+    "tamil": "\\u0BAE\\u0BC7\\u0BB2\\u0BCD\\u0BC7\\u0BB1\\u0BCD\\u0BB1\\u0BAE\\u0BCD \\u0BA4\\u0BCB\\u0BB2\\u0BCD\\u0BB5\\u0BBF",
+    "hindi": "\\u0905\\u092A\\u0932\\u094B\\u0921 \\u0905\\u0938\\u092B\\u0932",
+    "context": "attachments.upload_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 106,
+    "english": "Failed to send email",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u092D\\u0947\\u091C\\u0928\\u0947 \\u092E\\u0947\\u0902 \\u0905\\u0938\\u092B\\u0932",
+    "context": "errors.send_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 107,
+    "english": "Reset",
+    "tamil": null,
+    "hindi": "\\u0930\\u0940\\u0938\\u0947\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.reset",
+    "lang": "en-IN"
+  },
+  {
+    "id": 108,
+    "english": "Move to Folder",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u092E\\u0947\\u0902 \\u0932\\u0947 \\u091C\\u093E\\u090F\\u0902",
+    "context": "folders.move_to_folder",
+    "lang": "en-IN"
+  },
+  {
+    "id": 109,
+    "english": "Empty Folder",
+    "tamil": null,
+    "hindi": "\\u0916\\u093E\\u0932\\u0940 \\u092B\\u094B\\u0932\\u094D\\u0921\\u0930",
+    "context": "folders.empty_folder",
+    "lang": "en-IN"
+  },
+  {
+    "id": 110,
+    "english": "Attach File",
+    "tamil": "\\u0B95\\u0BC1\\u0BB5\\u0BB3\\u0BCD \\u0B87\\u0BA3\\u0BC8",
+    "hindi": "\\u092B\\u093E\\u0907\\u0932 \\u0905\\u091F\\u0948\\u091A \\u0915\\u0930\\u0947\\u0902",
+    "context": "compose.attach_file",
+    "lang": "en-IN"
+  },
+  {
+    "id": 111,
+    "english": "Account Settings",
+    "tamil": null,
+    "hindi": "\\u0916\\u093E\\u0924\\u093E \\u0938\\u0947\\u091F\\u093F\\u0902\\u0917\\u094D\\u0938",
+    "context": "account.account_settings",
+    "lang": "en-IN"
+  },
+  {
+    "id": 112,
+    "english": "Enable Notifications",
+    "tamil": null,
+    "hindi": "\\u0938\\u0942\\u091A\\u0928\\u093E\\u090F\\u0902 \\u0938\\u0915\\u094D\\u0937\\u092E \\u0915\\u0930\\u0947\\u0902",
+    "context": "notifications.enable_notifications",
+    "lang": "en-IN"
+  },
+  {
+    "id": 113,
+    "english": "Backup Codes",
+    "tamil": null,
+    "hindi": "\\u092C\\u0948\\u0915\\u0905\\u092A \\u0915\\u094B\\u0921",
+    "context": "security.backup_codes",
+    "lang": "en-IN"
+  },
+  {
+    "id": 114,
+    "english": "Create Folder",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u092C\\u0928\\u093E\\u090F\\u0902",
+    "context": "folders.create_folder",
+    "lang": "en-IN"
+  },
+  {
+    "id": 115,
+    "english": "This field is required",
+    "tamil": null,
+    "hindi": "\\u092F\\u0939 \\u092B\\u093C\\u0940\\u0932\\u094D\\u0921 \\u0906\\u0935\\u0936\\u094D\\u092F\\u0915 \\u0939\\u0948",
+    "context": "errors.required_field",
+    "lang": "en-IN"
+  },
+  {
+    "id": 116,
+    "english": "Show Starred",
+    "tamil": "\\u0BA8\\u0B9F\\u0BCD\\u0B9A\\u0BA4\\u0BCD\\u0BA4\\u0BBF\\u0BB0\\u0B99\\u0BCD\\u0B95\\u0BB3\\u0BC8 \\u0B95\\u0BBE\\u0B9F\\u0BCD\\u0B9F\\u0BC1",
+    "hindi": "\\u0924\\u093E\\u0930\\u093E\\u0902\\u0915\\u093F\\u0924 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "email_list.show_starred",
+    "lang": "en-IN"
+  },
+  {
+    "id": 117,
+    "english": "Star",
+    "tamil": "\\u0BA8\\u0B9F\\u0BCD\\u0B9A\\u0BA4\\u0BCD\\u0BA4\\u0BBF\\u0BB0\\u0BAE\\u0BCD",
+    "hindi": "\\u0924\\u093E\\u0930\\u093E \\u0932\\u0917\\u093E\\u090F\\u0902",
+    "context": "email_list.star",
+    "lang": "en-IN"
+  },
+  {
+    "id": 118,
+    "english": "From",
+    "tamil": "\\u0B87\\u0BB0\\u0BC1\\u0BA8\\u0BCD\\u0BA4\\u0BC1",
+    "hindi": "\\u0915\\u093F\\u0938\\u0915\\u0940 \\u0913\\u0930 \\u0938\\u0947",
+    "context": "search.search_from",
+    "lang": "en-IN"
+  },
+  {
+    "id": 119,
+    "english": "Forwarding",
+    "tamil": null,
+    "hindi": "\\u092B\\u0949\\u0930\\u0935\\u0930\\u094D\\u0921\\u093F\\u0902\\u0917",
+    "context": "settings.forwarding",
+    "lang": "en-IN"
+  },
+  {
+    "id": 120,
+    "english": "Actions",
+    "tamil": null,
+    "hindi": "\\u0915\\u093E\\u0930\\u094D\\u092F",
+    "context": "filters.actions",
+    "lang": "en-IN"
+  },
+  {
+    "id": 121,
+    "english": "Label Name",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0915\\u093E \\u0928\\u093E\\u092E",
+    "context": "labels.label_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 122,
+    "english": "Search Mail",
+    "tamil": "\\u0BAE\\u0BC6\\u0BAF\\u0BBF\\u0BB2\\u0BC8 \\u0BA4\\u0BC7\\u0B9F\\u0BC1",
+    "hindi": "\\u092E\\u0947\\u0932 \\u0916\\u094B\\u091C\\u0947\\u0902",
+    "context": "search.search_mail",
+    "lang": "en-IN"
+  },
+  {
+    "id": 123,
+    "english": "Login History",
+    "tamil": null,
+    "hindi": "\\u0932\\u0949\\u0917\\u093F\\u0928 \\u0907\\u0924\\u093F\\u0939\\u093E\\u0938",
+    "context": "security.login_history",
+    "lang": "en-IN"
+  },
+  {
+    "id": 124,
+    "english": "Discard",
+    "tamil": "\\u0BB5\\u0BC6\\u0BB1\\u0BBF\\u0BAF\\u0BC7",
+    "hindi": "\\u0930\\u0926\\u094D\\u0926 \\u0915\\u0930\\u0947\\u0902",
+    "context": "compose.discard",
+    "lang": "en-IN"
+  },
+  {
+    "id": 125,
+    "english": "Unstar",
+    "tamil": "\\u0BA8\\u0B9F\\u0BCD\\u0B9A\\u0BA4\\u0BCD\\u0BA4\\u0BBF\\u0BB0\\u0BA4\\u0BCD\\u0BA4\\u0BC8 \\u0BA8\\u0BC0\\u0B95\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0924\\u093E\\u0930\\u093E \\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "email_list.unstar",
+    "lang": "en-IN"
+  },
+  {
+    "id": 126,
+    "english": "Folder deleted",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.folder_deleted",
+    "lang": "en-IN"
+  },
+  {
+    "id": 127,
+    "english": "Has Attachment",
+    "tamil": "\\u0B87\\u0BA3\\u0BC8\\u0BAA\\u0BCD\\u0BAA\\u0BC1 \\u0B89\\u0BB3\\u0BCD\\u0BB3\\u0BA4\\u0BC1",
+    "hindi": "\\u0905\\u0924\\u093E\\u091A\\u092E\\u0947\\u0902\\u091F \\u0915\\u0947 \\u0938\\u093E\\u0925",
+    "context": "search.has_attachment",
+    "lang": "en-IN"
+  },
+  {
+    "id": 128,
+    "english": "Sound Notifications",
+    "tamil": null,
+    "hindi": "\\u0927\\u094D\\u0935\\u0928\\u093F \\u0938\\u0942\\u091A\\u0928\\u093E\\u090F\\u0902",
+    "context": "notifications.sound_notifications",
+    "lang": "en-IN"
+  },
+  {
+    "id": 129,
+    "english": "Signatures",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930",
+    "context": "settings.signatures",
+    "lang": "en-IN"
+  },
+  {
+    "id": 130,
+    "english": "Show Original",
+    "tamil": "\\u0BAE\\u0BC2\\u0BB2\\u0BA4\\u0BCD\\u0BA4\\u0BC8 \\u0B95\\u0BBE\\u0B9F\\u0BCD\\u0B9F\\u0BC1",
+    "hindi": "\\u092E\\u0942\\u0932 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "email_view.show_original",
+    "lang": "en-IN"
+  },
+  {
+    "id": 131,
+    "english": "If recipient",
+    "tamil": null,
+    "hindi": "\\u092F\\u0926\\u093F \\u092A\\u094D\\u0930\\u093E\\u092A\\u094D\\u0924\\u0915\\u0930\\u094D\\u0924\\u093E",
+    "context": "filters.if_recipient",
+    "lang": "en-IN"
+  },
+  {
+    "id": 132,
+    "english": "Contact updated",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u0905\\u092A\\u0921\\u0947\\u091F \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.contact_updated",
+    "lang": "en-IN"
+  },
+  {
+    "id": 133,
+    "english": "Display Name",
+    "tamil": null,
+    "hindi": "\\u092A\\u094D\\u0930\\u0926\\u0930\\u094D\\u0936\\u093F\\u0924 \\u0928\\u093E\\u092E",
+    "context": "account.display_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 134,
+    "english": "Preview",
+    "tamil": "\\u0BAE\\u0BC1\\u0BA9\\u0BCD\\u0BA8\\u0BCB\\u0B9F\\u0BCD\\u0B9F\\u0BAE\\u0BCD",
+    "hindi": "\\u092A\\u0942\\u0930\\u094D\\u0935\\u093E\\u0935\\u0932\\u094B\\u0915\\u0928",
+    "context": "attachments.preview",
+    "lang": "en-IN"
+  },
+  {
+    "id": 135,
+    "english": "No Signature",
+    "tamil": null,
+    "hindi": "\\u0915\\u094B\\u0908 \\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u0928\\u0939\\u0940\\u0902",
+    "context": "signatures.no_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 136,
+    "english": "Change Password",
+    "tamil": null,
+    "hindi": "\\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921 \\u092C\\u0926\\u0932\\u0947\\u0902",
+    "context": "security.change_password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 137,
+    "english": "Appearance",
+    "tamil": null,
+    "hindi": "\\u0926\\u093F\\u0916\\u093E\\u0935\\u091F",
+    "context": "settings.appearance",
+    "lang": "en-IN"
+  },
+  {
+    "id": 138,
+    "english": "File Size",
+    "tamil": "\\u0B95\\u0BCB\\u0BB5\\u0BC8 \\u0B85\\u0BB3\\u0BB5\\u0BC1",
+    "hindi": "\\u092B\\u093E\\u0907\\u0932 \\u0915\\u093E \\u0906\\u0915\\u093E\\u0930",
+    "context": "attachments.file_size",
+    "lang": "en-IN"
+  },
+  {
+    "id": 139,
+    "english": "Download",
+    "tamil": "\\u0B87\\u0BB1\\u0B99\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0921\\u093E\\u0909\\u0928\\u0932\\u094B\\u0921 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.download",
+    "lang": "en-IN"
+  },
+  {
+    "id": 140,
+    "english": "Compose",
+    "tamil": "\\u0B8E\\u0BB4\\u0BC1\\u0BA4\\u0BC1",
+    "hindi": "\\u0932\\u093F\\u0916\\u0947\\u0902",
+    "context": "compose.compose",
+    "lang": "en-IN"
+  },
+  {
+    "id": 141,
+    "english": "Auto Theme",
+    "tamil": null,
+    "hindi": "\\u0911\\u091F\\u094B \\u0925\\u0940\\u092E",
+    "context": "settings.auto_theme",
+    "lang": "en-IN"
+  },
+  {
+    "id": 142,
+    "english": "Filter created",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930 \\u092C\\u0928\\u093E\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.filter_created",
+    "lang": "en-IN"
+  },
+  {
+    "id": 143,
+    "english": "Description",
+    "tamil": null,
+    "hindi": "\\u0935\\u093F\\u0935\\u0930\\u0923",
+    "context": "common.description",
+    "lang": "en-IN"
+  },
+  {
+    "id": 144,
+    "english": "Forward",
+    "tamil": "\\u0BAE\\u0BC1\\u0BA9\\u0BCD\\u0BA9\\u0BC7\\u0BB1\\u0BCD\\u0BB1\\u0BC1",
+    "hindi": "\\u0906\\u0917\\u0947 \\u092D\\u0947\\u091C\\u0947\\u0902",
+    "context": "email_list.forward",
+    "lang": "en-IN"
+  },
+  {
+    "id": 145,
+    "english": "Parent Folder",
+    "tamil": null,
+    "hindi": "\\u092E\\u0942\\u0932 \\u092B\\u094B\\u0932\\u094D\\u0921\\u0930",
+    "context": "folders.parent_folder",
+    "lang": "en-IN"
+  },
+  {
+    "id": 146,
+    "english": "Comfortable",
+    "tamil": null,
+    "hindi": "\\u0906\\u0930\\u093E\\u092E\\u0926\\u093E\\u092F\\u0915",
+    "context": "settings.comfortable",
+    "lang": "en-IN"
+  },
+  {
+    "id": 147,
+    "english": "Save",
+    "tamil": null,
+    "hindi": "\\u0938\\u0947\\u0935 \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.save",
+    "lang": "en-IN"
+  },
+  {
+    "id": 148,
+    "english": "Folder created",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u092C\\u0928\\u093E\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.folder_created",
+    "lang": "en-IN"
+  },
+  {
+    "id": 149,
+    "english": "Current Password",
+    "tamil": null,
+    "hindi": "\\u0935\\u0930\\u094D\\u0924\\u092E\\u093E\\u0928 \\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921",
+    "context": "security.current_password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 150,
+    "english": "Show Preview",
+    "tamil": null,
+    "hindi": "\\u092A\\u0942\\u0930\\u094D\\u0935\\u093E\\u0935\\u0932\\u094B\\u0915\\u0928 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "notifications.notification_preview",
+    "lang": "en-IN"
+  },
+  {
+    "id": 151,
+    "english": "Email sent successfully",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0938\\u092B\\u0932\\u0924\\u093E\\u092A\\u0942\\u0930\\u094D\\u0935\\u0915 \\u092D\\u0947\\u091C\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.email_sent",
+    "lang": "en-IN"
+  },
+  {
+    "id": 152,
+    "english": "Align Right",
+    "tamil": "\\u0BB5\\u0BB2\\u0BA4\\u0BC1 \\u0B9A\\u0BC7\\u0BB0\\u0BCD\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u0926\\u093E\\u090F\\u0902 \\u0905\\u0932\\u093E\\u0907\\u0928 \\u0915\\u0930\\u0947\\u0902",
+    "context": "compose.align_right",
+    "lang": "en-IN"
+  },
+  {
+    "id": 153,
+    "english": "Revoke Session",
+    "tamil": null,
+    "hindi": "\\u0938\\u0924\\u094D\\u0930 \\u0930\\u0926\\u094D\\u0926 \\u0915\\u0930\\u0947\\u0902",
+    "context": "security.revoke_session",
+    "lang": "en-IN"
+  },
+  {
+    "id": 154,
+    "english": "Generate Password",
+    "tamil": null,
+    "hindi": "\\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921 \\u091C\\u0947\\u0928\\u0930\\u0947\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "security.generate_password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 155,
+    "english": "Show All",
+    "tamil": "\\u0B85\\u0BA9\\u0BC8\\u0BA4\\u0BCD\\u0BA4\\u0BC8\\u0BAF\\u0BC1\\u0BAE\\u0BCD \\u0B95\\u0BBE\\u0B9F\\u0BCD\\u0B9F\\u0BC1",
+    "hindi": "\\u0938\\u092D\\u0940 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "email_list.show_all",
+    "lang": "en-IN"
+  },
+  {
+    "id": 156,
+    "english": "Show Details",
+    "tamil": "\\u0BB5\\u0BBF\\u0BB5\\u0BB0\\u0B99\\u0BCD\\u0B95\\u0BB3\\u0BC8 \\u0B95\\u0BBE\\u0B9F\\u0BCD\\u0B9F\\u0BC1",
+    "hindi": "\\u0935\\u093F\\u0935\\u0930\\u0923 \\u0926\\u093F\\u0916\\u093E\\u090F\\u0902",
+    "context": "email_view.show_details",
+    "lang": "en-IN"
+  },
+  {
+    "id": 157,
+    "english": "Compact",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u0915\\u0941\\u091A\\u093F\\u0924",
+    "context": "settings.compact",
+    "lang": "en-IN"
+  },
+  {
+    "id": 158,
+    "english": "Frequent Contacts",
+    "tamil": null,
+    "hindi": "\\u0905\\u0915\\u094D\\u0938\\u0930 \\u0909\\u092A\\u092F\\u094B\\u0917 \\u0915\\u093F\\u090F \\u091C\\u093E\\u0928\\u0947 \\u0935\\u093E\\u0932\\u0947 \\u0938\\u0902\\u092A\\u0930\\u094D\\u0915",
+    "context": "contacts.frequent_contacts",
+    "lang": "en-IN"
+  },
+  {
+    "id": 159,
+    "english": "If body contains",
+    "tamil": null,
+    "hindi": "\\u092F\\u0926\\u093F \\u092E\\u0941\\u0916\\u094D\\u092F \\u092D\\u093E\\u0917 \\u092E\\u0947\\u0902 \\u0936\\u093E\\u092E\\u093F\\u0932 \\u0939\\u0948",
+    "context": "filters.if_body",
+    "lang": "en-IN"
+  },
+  {
+    "id": 160,
+    "english": "Insert Signature",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u0921\\u093E\\u0932\\u0947\\u0902",
+    "context": "signatures.insert_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 161,
+    "english": "Email Address",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u092A\\u0924\\u093E",
+    "context": "contacts.email_address",
+    "lang": "en-IN"
+  },
+  {
+    "id": 162,
+    "english": "Date Format",
+    "tamil": null,
+    "hindi": "\\u0924\\u093E\\u0930\\u0940\\u0916 \\u092A\\u094D\\u0930\\u093E\\u0930\\u0942\\u092A",
+    "context": "settings.date_format",
+    "lang": "en-IN"
+  },
+  {
+    "id": 163,
+    "english": "System Folders",
+    "tamil": null,
+    "hindi": "\\u0938\\u093F\\u0938\\u094D\\u091F\\u092E \\u092B\\u094B\\u0932\\u094D\\u0921\\u0930",
+    "context": "folders.system_folders",
+    "lang": "en-IN"
+  },
+  {
+    "id": 164,
+    "english": "Filter Name",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930 \\u0915\\u093E \\u0928\\u093E\\u092E",
+    "context": "filters.filter_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 165,
+    "english": "Snooze",
+    "tamil": "\\u0B89\\u0BB1\\u0B99\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0938\\u094D\\u0928\\u0942\\u091C\\u093C",
+    "context": "email_list.snooze",
+    "lang": "en-IN"
+  },
+  {
+    "id": 166,
+    "english": "Authentication",
+    "tamil": null,
+    "hindi": "\\u092A\\u094D\\u0930\\u092E\\u093E\\u0923\\u0940\\u0915\\u0930\\u0923",
+    "context": "account.authentication",
+    "lang": "en-IN"
+  },
+  {
+    "id": 167,
+    "english": "Spam",
+    "tamil": "\\u0BB8\\u0BCD\\u0BAA\\u0BBE\\u0BAE\\u0BCD",
+    "hindi": "\\u0938\\u094D\\u092A\\u0948\\u092E",
+    "context": "navigation.spam",
+    "lang": "en-IN"
+  },
+  {
+    "id": 168,
+    "english": "Request timeout",
+    "tamil": null,
+    "hindi": "\\u0938\\u092E\\u092F \\u0938\\u092E\\u093E\\u092A\\u094D\\u0924\\u093F \\u0924\\u094D\\u0930\\u0941\\u091F\\u093F",
+    "context": "errors.timeout_error",
+    "lang": "en-IN"
+  },
+  {
+    "id": 169,
+    "english": "Dark Theme",
+    "tamil": null,
+    "hindi": "\\u0917\\u0939\\u0930\\u093E \\u0925\\u0940\\u092E",
+    "context": "settings.dark_theme",
+    "lang": "en-IN"
+  },
+  {
+    "id": 170,
+    "english": "Settings",
+    "tamil": "\\u0B85\\u0BAE\\u0BC8\\u0BAA\\u0BCD\\u0BAA\\u0BC1\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0938\\u0947\\u091F\\u093F\\u0902\\u0917\\u094D\\u0938",
+    "context": "navigation.settings",
+    "lang": "en-IN"
+  },
+  {
+    "id": 171,
+    "english": "If sender",
+    "tamil": null,
+    "hindi": "\\u092F\\u0926\\u093F \\u092D\\u0947\\u091C\\u0928\\u0947 \\u0935\\u093E\\u0932\\u093E",
+    "context": "filters.if_sender",
+    "lang": "en-IN"
+  },
+  {
+    "id": 172,
+    "english": "Apply Label",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0932\\u0917\\u093E\\u090F\\u0902",
+    "context": "labels.apply_label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 173,
+    "english": "Descending",
+    "tamil": "\\u0B87\\u0BB1\\u0B99\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0905\\u0935\\u0930\\u094B\\u0939\\u0940",
+    "context": "email_list.descending",
+    "lang": "en-IN"
+  },
+  {
+    "id": 174,
+    "english": "Sent",
+    "tamil": "\\u0B85\\u0BA9\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BAA\\u0BCD\\u0BAA\\u0B9F\\u0BCD\\u0B9F\\u0BA4\\u0BC1",
+    "hindi": "\\u092D\\u0947\\u091C\\u0947 \\u0917\\u090F",
+    "context": "navigation.sent",
+    "lang": "en-IN"
+  },
+  {
+    "id": 175,
+    "english": "Active Sessions",
+    "tamil": null,
+    "hindi": "\\u0938\\u0915\\u094D\\u0930\\u093F\\u092F \\u0938\\u0924\\u094D\\u0930",
+    "context": "security.active_sessions",
+    "lang": "en-IN"
+  },
+  {
+    "id": 176,
+    "english": "Quiet Hours",
+    "tamil": null,
+    "hindi": "\\u0936\\u093E\\u0902\\u0924 \\u0938\\u092E\\u092F",
+    "context": "notifications.quiet_hours",
+    "lang": "en-IN"
+  },
+  {
+    "id": 177,
+    "english": "Rename Folder",
+    "tamil": null,
+    "hindi": "\\u092B\\u094B\\u0932\\u094D\\u0921\\u0930 \\u0915\\u093E \\u0928\\u093E\\u092E \\u092C\\u0926\\u0932\\u0947\\u0902",
+    "context": "folders.rename_folder",
+    "lang": "en-IN"
+  },
+  {
+    "id": 178,
+    "english": "Remove Label",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "labels.remove_label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 179,
+    "english": "Language",
+    "tamil": null,
+    "hindi": "\\u092D\\u093E\\u0937\\u093E",
+    "context": "settings.language",
+    "lang": "en-IN"
+  },
+  {
+    "id": 180,
+    "english": "Settings saved",
+    "tamil": null,
+    "hindi": "\\u0938\\u0947\\u091F\\u093F\\u0902\\u0917\\u094D\\u0938 \\u0938\\u0947\\u0935 \\u0939\\u094B \\u0917\\u0908\\u0902",
+    "context": "messages.settings_saved",
+    "lang": "en-IN"
+  },
+  {
+    "id": 181,
+    "english": "Contact deleted",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.contact_deleted",
+    "lang": "en-IN"
+  },
+  {
+    "id": 182,
+    "english": "Recent Searches",
+    "tamil": null,
+    "hindi": "\\u0939\\u093E\\u0932 \\u0915\\u0940 \\u0916\\u094B\\u091C\\u0947\\u0902",
+    "context": "search.recent_searches",
+    "lang": "en-IN"
+  },
+  {
+    "id": 183,
+    "english": "OK",
+    "tamil": null,
+    "hindi": "\\u0920\\u0940\\u0915",
+    "context": "common.ok",
+    "lang": "en-IN"
+  },
+  {
+    "id": 184,
+    "english": "Trash",
+    "tamil": "\\u0B95\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BC8",
+    "hindi": "\\u0915\\u0942\\u0921\\u093C\\u0947\\u0926\\u093E\\u0928",
+    "context": "navigation.trash",
+    "lang": "en-IN"
+  },
+  {
+    "id": 185,
+    "english": "Invalid file type",
+    "tamil": "\\u0B85\\u0BA9\\u0BC1\\u0BAE\\u0BA4\\u0BBF\\u0B95\\u0BCD\\u0B95\\u0BAA\\u0BCD\\u0BAA\\u0B9F\\u0BBE\\u0BA4 \\u0B95\\u0BCB\\u0BB5\\u0BC8 \\u0BB5\\u0B95\\u0BC8",
+    "hindi": "\\u0905\\u092E\\u093E\\u0928\\u094D\\u092F \\u092B\\u093E\\u0907\\u0932 \\u092A\\u094D\\u0930\\u0915\\u093E\\u0930",
+    "context": "attachments.invalid_file_type",
+    "lang": "en-IN"
+  },
+  {
+    "id": 186,
+    "english": "Then apply label",
+    "tamil": null,
+    "hindi": "\\u0924\\u094B \\u0932\\u0947\\u092C\\u0932 \\u0932\\u0917\\u093E\\u090F\\u0902",
+    "context": "filters.then_label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 187,
+    "english": "Auto Reply",
+    "tamil": null,
+    "hindi": "\\u0911\\u091F\\u094B \\u0930\\u093F\\u092A\\u094D\\u0932\\u093E\\u0908",
+    "context": "settings.auto_reply",
+    "lang": "en-IN"
+  },
+  {
+    "id": 188,
+    "english": "Email unstarred",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0938\\u0947 \\u0924\\u093E\\u0930\\u093E \\u0939\\u091F\\u093E\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.email_unstarred",
+    "lang": "en-IN"
+  },
+  {
+    "id": 189,
+    "english": "Mail",
+    "tamil": "\\u0BAE\\u0BC6\\u0BAF\\u0BBF\\u0BB2\\u0BCD",
+    "hindi": "\\u092E\\u0947\\u0932",
+    "context": "app.title",
+    "lang": "en-IN"
+  },
+  {
+    "id": 190,
+    "english": "Date Range",
+    "tamil": "\\u0BA4\\u0BC7\\u0BA4\\u0BBF \\u0BB5\\u0BBC6\\u0BB3\\u0BCD\\u0BB3\\u0BC8",
+    "hindi": "\\u0924\\u093E\\u0930\\u0940\\u0916 \\u0915\\u0940 \\u0930\\u0947\\u0902\\u091C",
+    "context": "search.date_range",
+    "lang": "en-IN"
+  },
+  {
+    "id": 191,
+    "english": "Security",
+    "tamil": null,
+    "hindi": "\\u0938\\u0941\\u0930\\u0915\\u094D\\u0937\\u093E",
+    "context": "account.security",
+    "lang": "en-IN"
+  },
+  {
+    "id": 192,
+    "english": "Draft saved",
+    "tamil": null,
+    "hindi": "\\u0921\\u094D\\u0930\\u093E\\u092B\\u094D\\u091F \\u0938\\u0947\\u0935 \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "messages.email_saved",
+    "lang": "en-IN"
+  },
+  {
+    "id": 193,
+    "english": "Then move to",
+    "tamil": null,
+    "hindi": "\\u0924\\u094B \\u092F\\u0939\\u093E\\u0902 \\u0932\\u0947 \\u091C\\u093E\\u090F\\u0902",
+    "context": "filters.then_move_to",
+    "lang": "en-IN"
+  },
+  {
+    "id": 194,
+    "english": "Emails deleted",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0939\\u094B \\u0917\\u0908\\u0902",
+    "context": "messages.emails_deleted",
+    "lang": "en-IN"
+  },
+  {
+    "id": 195,
+    "english": "Last Name",
+    "tamil": null,
+    "hindi": "\\u0905\\u0902\\u0924\\u093F\\u092E \\u0928\\u093E\\u092E",
+    "context": "contacts.last_name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 196,
+    "english": "Message Body",
+    "tamil": "\\u0B9A\\u0BC6\\u0BAF\\u0BCD\\u0BA4\\u0BBF \\u0B89\\u0BB3\\u0BCD\\u0BB3\\u0B9F\\u0B95\\u0BCD\\u0B95\\u0BAE\\u0BCD",
+    "hindi": "\\u0938\\u0902\\u0926\\u0947\\u0936 \\u092E\\u0941\\u0916\\u094D\\u092F \\u092D\\u093E\\u0917",
+    "context": "search.search_body",
+    "lang": "en-IN"
+  },
+  {
+    "id": 197,
+    "english": "Sync Settings",
+    "tamil": null,
+    "hindi": "\\u0938\\u093F\\u0902\\u0915 \\u0938\\u0947\\u091F\\u093F\\u0902\\u0917\\u094D\\u0938",
+    "context": "account.sync_settings",
+    "lang": "en-IN"
+  },
+  {
+    "id": 198,
+    "english": "If subject",
+    "tamil": null,
+    "hindi": "\\u092F\\u0926\\u093F \\u0935\\u093F\\u0937\\u092F",
+    "context": "filters.if_subject",
+    "lang": "en-IN"
+  },
+  {
+    "id": 199,
+    "english": "Email starred",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u092E\\u0947\\u0902 \\u0924\\u093E\\u0930\\u093E \\u0932\\u0917\\u093E\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.email_starred",
+    "lang": "en-IN"
+  },
+  {
+    "id": 200,
+    "english": "Emails archived",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0906\\u0930\\u094D\\u0915\\u093E\\u0907\\u0935 \\u0939\\u094B \\u0917\\u0908\\u0902",
+    "context": "messages.emails_archived",
+    "lang": "en-IN"
+  },
+  {
+    "id": 201,
+    "english": "Mark as Unread",
+    "tamil": "\\u0BAA\\u0B9F\\u0BBF\\u0B95\\u0BCD\\u0B95\\u0BBE\\u0BA4\\u0BA4\\u0BBE\\u0B95 \\u0B95\\u0BC1\\u0BB1\\u0BBF",
+    "hindi": "\\u0905\\u0928\\u092A\\u0922\\u093C\\u093E \\u0915\\u0947 \\u0930\\u0942\\u092A \\u092E\\u0947\\u0902 \\u091A\\u093F\\u0939\\u094D\\u0928\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.mark_unread",
+    "lang": "en-IN"
+  },
+  {
+    "id": 202,
+    "english": "Attach",
+    "tamil": "\\u0B87\\u0BA3\\u0BC8",
+    "hindi": "\\u0905\\u0924\\u093E\\u091A \\u0915\\u0930\\u0947\\u0902",
+    "context": "attachments.attach",
+    "lang": "en-IN"
+  },
+  {
+    "id": 203,
+    "english": "Normal Priority",
+    "tamil": "\\u0B9A\\u0BBE\\u0BA4\\u0BBE\\u0BB0\\u0BA3 \\u0BAE\\u0BC1\\u0BA9\\u0BCD\\u0BA9\\u0BC1\\u0BB0\\u0BBF\\u0BAE\\u0BC8",
+    "hindi": "\\u0938\\u093E\\u092E\\u093E\\u0928\\u094D\\u092F \\u092A\\u094D\\u0930\\u093E\\u0925\\u092E\\u093F\\u0915\\u0924\\u093E",
+    "context": "compose.priority_normal",
+    "lang": "en-IN"
+  },
+  {
+    "id": 204,
+    "english": "Drag and drop files here or click to browse",
+    "tamil": "\\u0B95\\u0BCB\\u0BB5\\u0BC8\\u0B95\\u0BB3\\u0BC8 \\u0B87\\u0B99\\u0BCD\\u0B95\\u0BC7 \\u0B87\\u0BB4\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BB5\\u0BC1\\u0BAE\\u0BCD \\u0BA4\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BB5\\u0BC1\\u0BAE\\u0BCD \\u0B85\\u0BB2\\u0BCD\\u0BB2\\u0BA4\\u0BC1 \\u0BAA\\u0BBE\\u0BB0\\u0BCD\\u0B95\\u0BCD\\u0B95 \\u0B95\\u0BCD\\u0BB3\\u0BBF\\u0B95\\u0BCD \\u0B9A\\u0BC6\\u0BAF\\u0BCD\\u0BAF\\u0BB5\\u0BC1\\u0BAE\\u0BCD",
+    "hindi": "\\u092B\\u093E\\u0907\\u0932\\u094B\\u0902 \\u0915\\u094B \\u092F\\u0939\\u093E\\u0902 \\u0916\\u0940\\u0902\\u091A\\u0947\\u0902 \\u0914\\u0930 \\u091B\\u094B\\u0921\\u093C\\u0947\\u0902 \\u092F\\u093E \\u092C\\u094D\\u0930\\u093E\\u0909\\u091C\\u093C \\u0915\\u0930\\u0928\\u0947 \\u0915\\u0947 \\u0932\\u093F\\u090F \\u0915\\u094D\\u0932\\u093F\\u0915 \\u0915\\u0930\\u0947\\u0902",
+    "context": "attachments.drag_drop",
+    "lang": "en-IN"
+  },
+  {
+    "id": 205,
+    "english": "Passwords do not match",
+    "tamil": null,
+    "hindi": "\\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921 \\u092E\\u0947\\u0932 \\u0928\\u0939\\u0940\\u0902 \\u0916\\u093E\\u0924\\u0947",
+    "context": "errors.password_mismatch",
+    "lang": "en-IN"
+  },
+  {
+    "id": 206,
+    "english": "Theme",
+    "tamil": null,
+    "hindi": "\\u0925\\u0940\\u092E",
+    "context": "settings.theme",
+    "lang": "en-IN"
+  },
+  {
+    "id": 207,
+    "english": "Warning",
+    "tamil": "\\u0B8E\\u0B9A\\u0BCD\\u0B9A\\u0BB0\\u0BBF\\u0B95\\u0BCD\\u0B95\\u0BC8",
+    "hindi": "\\u091A\\u0947\\u0924\\u093E\\u0935\\u0928\\u0940",
+    "context": "app.warning",
+    "lang": "en-IN"
+  },
+  {
+    "id": 208,
+    "english": "Conditions",
+    "tamil": null,
+    "hindi": "\\u0936\\u0930\\u094D\\u0924\\u0947\\u0902",
+    "context": "filters.conditions",
+    "lang": "en-IN"
+  },
+  {
+    "id": 209,
+    "english": "Send",
+    "tamil": "\\u0B85\\u0BA9\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u092D\\u0947\\u091C\\u0947\\u0902",
+    "context": "compose.send",
+    "lang": "en-IN"
+  },
+  {
+    "id": 210,
+    "english": "Advanced Search",
+    "tamil": "\\u0BAE\\u0BC1\\u0BA9\\u0BCD\\u0BA9\\u0B9F\\u0BBF\\u0BB5 \\u0BA4\\u0BC7\\u0B9F\\u0BB2\\u0BCD",
+    "hindi": "\\u0909\\u0928\\u094D\\u0928\\u0924 \\u0916\\u094B\\u091C",
+    "context": "search.advanced_search",
+    "lang": "en-IN"
+  },
+  {
+    "id": 211,
+    "english": "Labels",
+    "tamil": "\\u0BB2\\u0BC7\\u0BAA\\u0BB2\\u0BCD\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0932\\u0947\\u092C\\u0932",
+    "context": "navigation.labels",
+    "lang": "en-IN"
+  },
+  {
+    "id": 212,
+    "english": "Edit Label",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0938\\u0902\\u092A\\u093E\\u0926\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "labels.edit_label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 213,
+    "english": "Mail Application",
+    "tamil": "\\u0BAE\\u0BC6\\u0BAF\\u0BBF\\u0BB2\\u0BCD \\u0B85\\u0BAA\\u0BCD\\u0BB3\\u0BBF\\u0B95\\u0BC7\\u0BB7\\u0BA9\\u0BCD",
+    "hindi": "\\u092E\\u0947\\u0932 \\u090F\\u092A\\u094D\\u0932\\u093F\\u0915\\u0947\\u0936\\u0928",
+    "context": "app.name",
+    "lang": "en-IN"
+  },
+  {
+    "id": 214,
+    "english": "Password",
+    "tamil": null,
+    "hindi": "\\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921",
+    "context": "account.password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 215,
+    "english": "End Time",
+    "tamil": null,
+    "hindi": "\\u0905\\u0902\\u0924 \\u0915\\u093E \\u0938\\u092E\\u092F",
+    "context": "notifications.end_time",
+    "lang": "en-IN"
+  },
+  {
+    "id": 216,
+    "english": "Network error",
+    "tamil": null,
+    "hindi": "\\u0928\\u0947\\u091F\\u0935\\u0930\\u094D\\u0915 \\u0924\\u094D\\u0930\\u0941\\u091F\\u093F",
+    "context": "errors.network_error",
+    "lang": "en-IN"
+  },
+  {
+    "id": 217,
+    "english": "Sync Frequency",
+    "tamil": null,
+    "hindi": "\\u0938\\u093F\\u0902\\u0915 \\u0906\\u0935\\u0943\\u0924\\u094D\\u0924\\u093F",
+    "context": "account.sync_frequency",
+    "lang": "en-IN"
+  },
+  {
+    "id": 218,
+    "english": "Password is too weak",
+    "tamil": null,
+    "hindi": "\\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921 \\u092C\\u0939\\u0941\\u0924 \\u0915\\u092E\\u091C\\u093C\\u094B\\u0930 \\u0939\\u0948",
+    "context": "errors.weak_password",
+    "lang": "en-IN"
+  },
+  {
+    "id": 219,
+    "english": "Disable",
+    "tamil": null,
+    "hindi": "\\u0905\\u0915\\u094D\\u0937\\u092E \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.disable",
+    "lang": "en-IN"
+  },
+  {
+    "id": 220,
+    "english": "No",
+    "tamil": null,
+    "hindi": "\\u0928\\u0939\\u0940\\u0902",
+    "context": "common.no",
+    "lang": "en-IN"
+  },
+  {
+    "id": 221,
+    "english": "Upload Complete",
+    "tamil": "\\u0BAE\\u0BC7\\u0BB2\\u0BCD\\u0BC7\\u0BB1\\u0BCD\\u0BB1\\u0BAE\\u0BCD \\u0BAE\\u0BC1\\u0B9F\\u0BBF\\u0BA8\\u0BCD\\u0BA4\\u0BA4\\u0BC1",
+    "hindi": "\\u0905\\u092A\\u0932\\u094B\\u0921 \\u092A\\u0942\\u0930\\u093E \\u0939\\u094B \\u0917\\u092F\\u093E",
+    "context": "attachments.upload_complete",
+    "lang": "en-IN"
+  },
+  {
+    "id": 222,
+    "english": "Move to",
+    "tamil": "\\u0B87\\u0B99\\u0BCD\\u0B95\\u0BC1 \\u0BA8\\u0B95\\u0BB0\\u0BCD\\u0BA4\\u0BCD\\u0BA4\\u0BC1",
+    "hindi": "\\u092F\\u0939\\u093E\\u0902 \\u0932\\u0947 \\u091C\\u093E\\u090F\\u0902",
+    "context": "email_list.move_to",
+    "lang": "en-IN"
+  },
+  {
+    "id": 223,
+    "english": "Delete Signature",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "signatures.delete_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 224,
+    "english": "Error",
+    "tamil": "\\u0BAA\\u0BBF\\u0BB4\\u0BC8",
+    "hindi": "\\u0924\\u094D\\u0930\\u0941\\u091F\\u093F",
+    "context": "app.error",
+    "lang": "en-IN"
+  },
+  {
+    "id": 225,
+    "english": "File Type",
+    "tamil": "\\u0B95\\u0BCB\\u0BB5\\u0BC8 \\u0BB5\\u0B95\\u0BC8",
+    "hindi": "\\u092B\\u093E\\u0907\\u0932 \\u0915\\u093E \\u092A\\u094D\\u0930\\u0915\\u093E\\u0930",
+    "context": "attachments.file_type",
+    "lang": "en-IN"
+  },
+  {
+    "id": 226,
+    "english": "Search Results",
+    "tamil": "\\u0BA4\\u0BC7\\u0B9F\\u0BB2\\u0BCD \\u0BAE\\u0BC1\\u0B9F\\u0BBF\\u0BB5\\u0BC1\\u0B95\\u0BB3\\u0BCD",
+    "hindi": "\\u0916\\u094B\\u091C \\u092A\\u0930\\u093F\\u0923\\u093E\\u092E",
+    "context": "search.search_results",
+    "lang": "en-IN"
+  },
+  {
+    "id": 227,
+    "english": "Add Account",
+    "tamil": null,
+    "hindi": "\\u0916\\u093E\\u0924\\u093E \\u091C\\u094B\\u0921\\u093C\\u0947\\u0902",
+    "context": "account.add_account",
+    "lang": "en-IN"
+  },
+  {
+    "id": 228,
+    "english": "Security Questions",
+    "tamil": null,
+    "hindi": "\\u0938\\u0941\\u0930\\u0915\\u094D\\u0937\\u093E \\u092A\\u094D\\u0930\\u0936\\u094D\\u0928",
+    "context": "security.security_questions",
+    "lang": "en-IN"
+  },
+  {
+    "id": 229,
+    "english": "Align Left",
+    "tamil": "\\u0B87\\u0B9F\\u0BA4\\u0BC1 \\u0B9A\\u0BC7\\u0BB0\\u0BCD\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u092C\\u093E\\u090F\\u0902 \\u0905\\u0932\\u093E\\u0907\\u0928 \\u0915\\u0930\\u0947\\u0902",
+    "context": "compose.align_left",
+    "lang": "en-IN"
+  },
+  {
+    "id": 230,
+    "english": "Back to List",
+    "tamil": "\\u0BAA\\u0B9F\\u0BCD\\u0B9F\\u0BBF\\u0BAF\\u0BB2\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BC1 \\u0BA4\\u0BBF\\u0BB0\\u0BC1\\u0BAE\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u0938\\u0942\\u091A\\u0940 \\u092E\\u0947\\u0902 \\u0935\\u093E\\u092A\\u0938 \\u091C\\u093E\\u090F\\u0902",
+    "context": "email_view.back_to_list",
+    "lang": "en-IN"
+  },
+  {
+    "id": 231,
+    "english": "Reply All",
+    "tamil": "\\u0B85\\u0BA9\\u0BC8\\u0BB5\\u0BB0\\u0BC1\\u0B95\\u0BCD\\u0B95\\u0BC1\\u0BAE\\u0BCD \\u0BAA\\u0BA4\\u0BBF\\u0BB2\\u0B9F\\u0BBF",
+    "hindi": "\\u0938\\u092D\\u0940 \\u0915\\u094B \\u091C\\u0935\\u093E\\u092C \\u0926\\u0947\\u0902",
+    "context": "email_view.reply_all",
+    "lang": "en-IN"
+  },
+  {
+    "id": 232,
+    "english": "Font Color",
+    "tamil": "\\u0B8E\\u0BB4\\u0BC1\\u0BA4\\u0BCD\\u0BA4\\u0BC1 \\u0BA8\\u0BBF\\u0BB1\\u0BAE\\u0BCD",
+    "hindi": "\\u092B\\u0949\\u0928\\u094D\\u091F \\u0915\\u093E \\u0930\\u0902\\u0917",
+    "context": "compose.font_color",
+    "lang": "en-IN"
+  },
+  {
+    "id": 233,
+    "english": "Failed to delete",
+    "tamil": null,
+    "hindi": "\\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0928\\u0947 \\u092E\\u0947\\u0902 \\u0905\\u0938\\u092B\\u0932",
+    "context": "errors.delete_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 234,
+    "english": "Connection error",
+    "tamil": null,
+    "hindi": "\\u0915\\u0928\\u0947\\u0915\\u094D\\u0936\\u0928 \\u0924\\u094D\\u0930\\u0941\\u091F\\u093F",
+    "context": "errors.connection_error",
+    "lang": "en-IN"
+  },
+  {
+    "id": 235,
+    "english": "Schedule Send",
+    "tamil": "\\u0BA8\\u0BC7\\u0BB0\\u0BA4\\u0BCD\\u0BA4\\u0BBF\\u0BB2\\u0BCD \\u0B85\\u0BA9\\u0BC1\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u0938\\u0902\\u0915\\u0947\\u0924\\u093F\\u0924 \\u0938\\u092E\\u092F \\u092A\\u0930 \\u092D\\u0947\\u091C\\u0947\\u0902",
+    "context": "compose.schedule_send",
+    "lang": "en-IN"
+  },
+  {
+    "id": 236,
+    "english": "Cancel",
+    "tamil": null,
+    "hindi": "\\u0930\\u0926\\u094D\\u0926 \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.cancel",
+    "lang": "en-IN"
+  },
+  {
+    "id": 237,
+    "english": "Import/Export",
+    "tamil": null,
+    "hindi": "\\u0907\\u0902\\u092A\\u094B\\u0930\\u094D\\u091F/\\u090F\\u0915\\u094D\\u0938\\u092A\\u094B\\u0930\\u094D\\u091F",
+    "context": "settings.import_export",
+    "lang": "en-IN"
+  },
+  {
+    "id": 238,
+    "english": "Select All",
+    "tamil": "\\u0B85\\u0BA9\\u0BC8\\u0BA4\\u0BCD\\u0BA4\\u0BC8\\u0BAF\\u0BC1\\u0BAE\\u0BCD \\u0BA4\\u0BC7\\u0BB0\\u0BCD\\u0BB5\\u0BC1 \\u0B9A\\u0BC6\\u0BAF\\u0BCD",
+    "hindi": "\\u0938\\u092D\\u0940 \\u0915\\u093E \\u091A\\u092F\\u0928 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.select_all",
+    "lang": "en-IN"
+  },
+  {
+    "id": 239,
+    "english": "Outgoing Server",
+    "tamil": null,
+    "hindi": "\\u092C\\u093E\\u0939\\u0930 \\u091C\\u093E\\u0928\\u0947 \\u0935\\u093E\\u0932\\u093E \\u0938\\u0930\\u094D\\u0935\\u0930",
+    "context": "account.outgoing_server",
+    "lang": "en-IN"
+  },
+  {
+    "id": 240,
+    "english": "No results found",
+    "tamil": "\\u0BAE\\u0BC1\\u0B9F\\u0BBF\\u0BB5\\u0BC1\\u0B95\\u0BB3\\u0BCD \\u0B95\\u0BBF\\u0B9F\\u0BC8\\u0B95\\u0BCD\\u0B95\\u0BB5\\u0BBF\\u0BB",
+    "hindi": "\\u0915\\u094B\\u0908 \\u092A\\u0930\\u093F\\u0923\\u093E\\u092E \\u0928\\u0939\\u0940\\u0902 \\u092E\\u093F\\u0932\\u093E",
+    "context": "search.no_results",
+    "lang": "en-IN"
+  },
+  {
+    "id": 241,
+    "english": "File is too large",
+    "tamil": null,
+    "hindi": "\\u092B\\u093E\\u0907\\u0932 \\u092C\\u0939\\u0941\\u0924 \\u092C\\u0921\\u093C\\u0940 \\u0939\\u0948",
+    "context": "errors.file_too_large",
+    "lang": "en-IN"
+  },
+  {
+    "id": 242,
+    "english": "Add",
+    "tamil": null,
+    "hindi": "\\u091C\\u094B\\u0921\\u093C\\u0947\\u0902",
+    "context": "common.add",
+    "lang": "en-IN"
+  },
+  {
+    "id": 243,
+    "english": "Apply",
+    "tamil": null,
+    "hindi": "\\u0932\\u093E\\u0917\\u0942 \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.apply",
+    "lang": "en-IN"
+  },
+  {
+    "id": 244,
+    "english": "Version",
+    "tamil": "\\u0BAA\\u0BA4\\u0BBF\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u0938\\u0902\\u0938\\u094D\\u0915\\u0930\\u0923",
+    "context": "app.version",
+    "lang": "en-IN"
+  },
+  {
+    "id": 245,
+    "english": "Upload Progress",
+    "tamil": "\\u0BAE\\u0BC7\\u0BB2\\u0BCD\\u0BC7\\u0BB1\\u0BCD\\u0BB1\\u0BAE\\u0BCD \\u0BA8\\u0B9F\\u0BC8\\u0BAA\\u0BC7\\u0BB1\\u0BC1\\u0BA4\\u0BB2\\u0BCD",
+    "hindi": "\\u0905\\u092A\\u0932\\u094B\\u0921 \\u092A\\u094D\\u0930\\u0917\\u0924\\u093F",
+    "context": "attachments.upload_progress",
+    "lang": "en-IN"
+  },
+  {
+    "id": 246,
+    "english": "Not Spam",
+    "tamil": "\\u0BB8\\u0BCD\\u0BAA\\u0BBE\\u0BAE\\u0BCD \\u0B87\\u0BB2\\u0BCD\\u0BB2\\u0BC8",
+    "hindi": "\\u0938\\u094D\\u092A\\u0948\\u092E \\u0928\\u0939\\u0940\\u0902",
+    "context": "email_view.not_spam",
+    "lang": "en-IN"
+  },
+  {
+    "id": 247,
+    "english": "Server Settings",
+    "tamil": null,
+    "hindi": "\\u0938\\u0930\\u094D\\u0935\\u0930 \\u0938\\u0947\\u091F\\u093F\\u0902\\u0917\\u094D\\u0938",
+    "context": "account.server_settings",
+    "lang": "en-IN"
+  },
+  {
+    "id": 248,
+    "english": "Time",
+    "tamil": null,
+    "hindi": "\\u0938\\u092E\\u092F",
+    "context": "common.time",
+    "lang": "en-IN"
+  },
+  {
+    "id": 249,
+    "english": "Sync Period",
+    "tamil": null,
+    "hindi": "\\u0938\\u093F\\u0902\\u0915 \\u0905\\u0935\\u0927\\u093F",
+    "context": "account.sync_period",
+    "lang": "en-IN"
+  },
+  {
+    "id": 250,
+    "english": "Test Connection",
+    "tamil": null,
+    "hindi": "\\u0915\\u0928\\u0947\\u0915\\u094D\\u0936\\u0928 \\u091F\\u0947\\u0938\\u094D\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "account.test_connection",
+    "lang": "en-IN"
+  },
+  {
+    "id": 251,
+    "english": "Sort by",
+    "tamil": "\\u0BB5\\u0BB0\\u0BBF\\u0B9A\\u0BC8\\u0BAA\\u0B9F\\u0BC1\\u0BA4\\u0BCD\\u0BA4\\u0BC1",
+    "hindi": "\\u0907\\u0938 \\u0906\\u0927\\u093E\\u0930 \\u092A\\u0930 \\u0915\\u094D\\u0930\\u092E\\u092C\\u0926\\u094D\\u0927 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.sort_by",
+    "lang": "en-IN"
+  },
+  {
+    "id": 252,
+    "english": "Create",
+    "tamil": null,
+    "hindi": "\\u092C\\u0928\\u093E\\u090F\\u0902",
+    "context": "common.create",
+    "lang": "en-IN"
+  },
+  {
+    "id": 253,
+    "english": "Information",
+    "tamil": "\\u0BA4\\u0B95\\u0BB5\\u0BB2\\u0BCD",
+    "hindi": "\\u091C\\u093E\\u0928\\u0915\\u093E\\u0930\\u0940",
+    "context": "app.info",
+    "lang": "en-IN"
+  },
+  {
+    "id": 254,
+    "english": "Default Signature",
+    "tamil": null,
+    "hindi": "\\u0921\\u093F\\u092B\\u0949\\u0932\\u094D\\u091F \\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930",
+    "context": "signatures.default_signature",
+    "lang": "en-IN"
+  },
+  {
+    "id": 255,
+    "english": "Bold",
+    "tamil": "\\u0BA4\\u0B9F\\u0BBF\\u0B9A\\u0BCD\\u0B9A\\u0BC1",
+    "hindi": "\\u092C\\u094B\\u0932\\u094D\\u0921",
+    "context": "compose.bold",
+    "lang": "en-IN"
+  },
+  {
+    "id": 256,
+    "english": "Save Draft",
+    "tamil": "\\u0BB5\\u0BB0\\u0BC8\\u0BB5\\u0BBF\\u0BA9\\u0BC8 \\u0B9A\\u0BC7\\u0BAE\\u0BBF",
+    "hindi": "\\u0921\\u094D\\u0930\\u093E\\u092B\\u094D\\u091F \\u0938\\u0947\\u0935 \\u0915\\u0930\\u0947\\u0902",
+    "context": "compose.save_draft",
+    "lang": "en-IN"
+  },
+  {
+    "id": 257,
+    "english": "Desktop Notifications",
+    "tamil": null,
+    "hindi": "\\u0921\\u0947\\u0938\\u094D\\u0915\\u091F\\u0949\\u092A \\u0938\\u0942\\u091A\\u0928\\u093E\\u090F\\u0902",
+    "context": "notifications.desktop_notifications",
+    "lang": "en-IN"
+  },
+  {
+    "id": 258,
+    "english": "Mark as Spam",
+    "tamil": "\\u0BB8\\u0BCD\\u0BAA\\u0BBE\\u0BAE\\u0BBE\\u0B95 \\u0B95\\u0BC1\\u0BB1\\u0BBF",
+    "hindi": "\\u0938\\u094D\\u092A\\u0948\\u092E \\u0915\\u0947 \\u0930\\u0942\\u092A \\u092E\\u0947\\u0902 \\u091A\\u093F\\u0939\\u094D\\u0928\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_view.mark_spam",
+    "lang": "en-IN"
+  },
+  {
+    "id": 259,
+    "english": "Mark as Read",
+    "tamil": "\\u0BAA\\u0B9F\\u0BBF\\u0BA4\\u0BCD\\u0BA4\\u0BA4\\u0BBE\\u0B95 \\u0B95\\u0BC1\\u0BB1\\u0BBF",
+    "hindi": "\\u092A\\u0922\\u093C\\u093E \\u0917\\u092F\\u093E \\u0915\\u0947 \\u0930\\u0942\\u092A \\u092E\\u0947\\u0902 \\u091A\\u093F\\u0939\\u094D\\u0928\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_list.mark_read",
+    "lang": "en-IN"
+  },
+  {
+    "id": 260,
+    "english": "Notes",
+    "tamil": null,
+    "hindi": "\\u0928\\u094B\\u091F\\u094D\\u0938",
+    "context": "contacts.notes",
+    "lang": "en-IN"
+  },
+  {
+    "id": 261,
+    "english": "Insert Image",
+    "tamil": "\\u0BAA\\u0B9F\\u0BA4\\u0BCD\\u0BA4\\u0BC8 \\u0B9A\\u0BC7\\u0BB0\\u0BCD",
+    "hindi": "\\u091A\\u093F\\u0924\\u094D\\u0930 \\u0921\\u093E\\u0932\\u0947\\u0902",
+    "context": "compose.insert_image",
+    "lang": "en-IN"
+  },
+  {
+    "id": 262,
+    "english": "Create Label",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u092C\\u0928\\u093E\\u090F\\u0902",
+    "context": "labels.create_label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 263,
+    "english": "Save Search",
+    "tamil": null,
+    "hindi": "\\u0916\\u094B\\u091C \\u0938\\u0947\\u0935 \\u0915\\u0930\\u0947\\u0902",
+    "context": "search.save_search",
+    "lang": "en-IN"
+  },
+  {
+    "id": 264,
+    "english": "Edit Contact",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u0938\\u0902\\u092A\\u093E\\u0926\\u093F\\u0924 \\u0915\\u0930\\u0947\\u0902",
+    "context": "contacts.edit_contact",
+    "lang": "en-IN"
+  },
+  {
+    "id": 265,
+    "english": "Time Format",
+    "tamil": null,
+    "hindi": "\\u0938\\u092E\\u092F \\u092A\\u094D\\u0930\\u093E\\u0930\\u0942\\u092A",
+    "context": "settings.time_format",
+    "lang": "en-IN"
+  },
+  {
+    "id": 266,
+    "english": "Email marked as read",
+    "tamil": null,
+    "hindi": "\\u0908\\u092E\\u0947\\u0932 \\u0915\\u094B \\u092A\\u0922\\u093C\\u093E \\u0917\\u092F\\u093E \\u0915\\u0947 \\u0930\\u0942\\u092A \\u092E\\u0947\\u0902 \\u091A\\u093F\\u0939\\u094D\\u0928\\u093F\\u0924 \\u0915\\u093F\\u092F\\u093E \\u0917\\u092F\\u093E",
+    "context": "messages.email_marked_read",
+    "lang": "en-IN"
+  },
+  {
+    "id": 267,
+    "english": "Authentication failed",
+    "tamil": null,
+    "hindi": "\\u092A\\u094D\\u0930\\u092E\\u093E\\u0923\\u0940\\u0915\\u0930\\u0923 \\u0905\\u0938\\u092B\\u0932",
+    "context": "errors.authentication_failed",
+    "lang": "en-IN"
+  },
+  {
+    "id": 268,
+    "english": "Clear Search",
+    "tamil": null,
+    "hindi": "\\u0916\\u094B\\u091C \\u0938\\u093E\\u092B \\u0915\\u0930\\u0947\\u0902",
+    "context": "search.clear_search",
+    "lang": "en-IN"
+  },
+  {
+    "id": 269,
+    "english": "Contact Details",
+    "tamil": null,
+    "hindi": "\\u0938\\u0902\\u092A\\u0930\\u094D\\u0915 \\u0935\\u093F\\u0935\\u0930\\u0923",
+    "context": "contacts.contact_details",
+    "lang": "en-IN"
+  },
+  {
+    "id": 270,
+    "english": "CC",
+    "tamil": "\\u0BB8\\u0BBF\\u0BB8\\u0BBF",
+    "hindi": "\\u0938\\u0940\\u0938\\u0940",
+    "context": "compose.cc",
+    "lang": "en-IN"
+  },
+  {
+    "id": 271,
+    "english": "Remove Account",
+    "tamil": null,
+    "hindi": "\\u0916\\u093E\\u0924\\u093E \\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "account.remove_account",
+    "lang": "en-IN"
+  },
+  {
+    "id": 272,
+    "english": "Deselect All",
+    "tamil": "\\u0B85\\u0BA9\\u0BC8\\u0BA4\\u0BCD\\u0BA4\\u0BC8\\u0BAF\\u0BC1\\u0BAE\\u0BCD \\u0BA4\\u0BC7\\u0BB0\\u0BCD\\u0BB5\\u0BC8 \\u0BA4\\u0BB5\\u0BBF\\u0BB0\\u0BCD",
+    "hindi": "\\u0938\\u092D\\u0940 \\u0915\\u093E \\u091A\\u092F\\u0928 \\u0939\\u091F\\u093E\\u090F\\u0902",
+    "context": "email_list.deselect_all",
+    "lang": "en-IN"
+  },
+  {
+    "id": 273,
+    "english": "Download All",
+    "tamil": "\\u0B85\\u0BA9\\u0BC8\\u0BA4\\u0BCD\\u0BA4\\u0BC8\\u0BAF\\u0BC1\\u0BAE\\u0BCD \\u0B87\\u0BB1\\u0B99\\u0BCD\\u0B95\\u0BC1",
+    "hindi": "\\u0938\\u092D\\u0940 \\u0921\\u093E\\u0909\\u0928\\u0932\\u094B\\u0921 \\u0915\\u0930\\u0947\\u0902",
+    "context": "email_view.download_all",
+    "lang": "en-IN"
+  },
+  {
+    "id": 274,
+    "english": "Two-Factor Authentication",
+    "tamil": null,
+    "hindi": "\\u0926\\u094B-\\u0915\\u093E\\u0930\\u0915 \\u092A\\u094D\\u0930\\u092E\\u093E\\u0923\\u0940\\u0915\\u0930\\u0923",
+    "context": "security.two_factor_auth",
+    "lang": "en-IN"
+  },
+  {
+    "id": 275,
+    "english": "Confirm",
+    "tamil": null,
+    "hindi": "\\u092A\\u0941\\u0937\\u094D\\u091F\\u093F \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.confirm",
+    "lang": "en-IN"
+  },
+  {
+    "id": 276,
+    "english": "Formatting",
+    "tamil": "\\u0BB5\\u0B9F\\u0BBF\\u0BB5\\u0BAE\\u0BC8\\u0BAA\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u092B\\u0949\\u0930\\u092E\\u0948\\u091F\\u093F\\u0902\\u0917",
+    "context": "compose.formatting",
+    "lang": "en-IN"
+  },
+  {
+    "id": 277,
+    "english": "Delete Label",
+    "tamil": null,
+    "hindi": "\\u0932\\u0947\\u092C\\u0932 \\u0921\\u093F\\u0932\\u0940\\u091F \\u0915\\u0930\\u0947\\u0902",
+    "context": "labels.delete_label",
+    "lang": "en-IN"
+  },
+  {
+    "id": 278,
+    "english": "Light Theme",
+    "tamil": null,
+    "hindi": "\\u0939\\u0932\\u094D\\u0915\\u093E \\u0925\\u0940\\u092E",
+    "context": "settings.light_theme",
+    "lang": "en-IN"
+  },
+  {
+    "id": 279,
+    "english": "Close",
+    "tamil": null,
+    "hindi": "\\u092C\\u0902\\u0926 \\u0915\\u0930\\u0947\\u0902",
+    "context": "common.close",
+    "lang": "en-IN"
+  },
+  {
+    "id": 280,
+    "english": "Then star",
+    "tamil": null,
+    "hindi": "\\u0924\\u094B \\u0924\\u093E\\u0930\\u093E \\u0932\\u0917\\u093E\\u090F\\u0902",
+    "context": "filters.then_star",
+    "lang": "en-IN"
+  },
+  {
+    "id": 281,
+    "english": "Filters",
+    "tamil": null,
+    "hindi": "\\u092B\\u093F\\u0932\\u094D\\u091F\\u0930",
+    "context": "settings.filters",
+    "lang": "en-IN"
+  },
+  {
+    "id": 282,
+    "english": "Background Color",
+    "tamil": "\\u0BAA\\u0BBF\\u0BA9\\u0BCD\\u0BA9\\u0BA3\\u0BBF \\u0BA8\\u0BBF\\u0BB1\\u0BAE\\u0BCD",
+    "hindi": "\\u092C\\u0948\\u0915\\u0917\\u094D\\u0930\\u093E\\u0909\\u0902\\u0921 \\u0915\\u093E \\u0930\\u0902\\u0917",
+    "context": "compose.background_color",
+    "lang": "en-IN"
+  },
+  {
+    "id": 283,
+    "english": "Low Priority",
+    "tamil": "\\u0B95\\u0BC1\\u0BB1\\u0BC8\\u0BB5\\u0BBE\\u0BA9 \\u0BAE\\u0BC1\\u0BA9\\u0BCD\\u0BA9\\u0BC1\\u0BB0\\u0BBF\\u0BAE\\u0BC8",
+    "hindi": "\\u0915\\u092E \\u092A\\u094D\\u0930\\u093E\\u0925\\u092E\\u093F\\u0915\\u0924\\u093E",
+    "context": "compose.priority_low",
+    "lang": "en-IN"
+  },
+  {
+    "id": 284,
+    "english": "App Passwords",
+    "tamil": null,
+    "hindi": "\\u090F\\u092A \\u092A\\u093E\\u0938\\u0935\\u0930\\u094D\\u0921",
+    "context": "security.app_passwords",
+    "lang": "en-IN"
+  },
+  {
+    "id": 285,
+    "english": "Connection Successful",
+    "tamil": null,
+    "hindi": "\\u0915\\u0928\\u0947\\u0915\\u094D\\u0936\\u0928 \\u0938\\u092B\\u0932",
+    "context": "account.connection_successful",
+    "lang": "en-IN"
+  },
+  {
+    "id": 286,
+    "english": "Ascending",
+    "tamil": "\\u0B8F\\u0BB1\\u0BC1\\u0BA4\\u0BC1",
+    "hindi": "\\u0906\\u0930\\u094B\\u0939\\u0940",
+    "context": "email_list.ascending",
+    "lang": "en-IN"
+  },
+  {
+    "id": 287,
+    "english": "Cozy",
+    "tamil": null,
+    "hindi": "\\u0938\\u0941\\u0935\\u093F\\u0927\\u093E\\u091C\\u0928\\u0915",
+    "context": "settings.cozy",
+    "lang": "en-IN"
+  },
+  {
+    "id": 288,
+    "english": "Signature Text",
+    "tamil": null,
+    "hindi": "\\u0939\\u0938\\u094D\\u0924\\u093E\\u0915\\u094D\\u0937\\u0930 \\u092A\\u093E\\u0920",
+    "context": "signatures.signature_text",
+    "lang": "en-IN"
+  },
+  {
+    "id": 289,
+    "english": "Align Center",
+    "tamil": "\\u0BA8\\u0B9F\\u0BC1\\u0BB5\\u0BBF\\u0BB2\\u0BCD \\u0B9A\\u0BC7\\u0BB0\\u0BCD\\u0BAP\\u0BCD\\u0BAA\\u0BC1",
+    "hindi": "\\u0915\\u0947\\u0902\\u0926\\u094D\\u0930 \\u092E\\u0947\\u0902 \\u0905\\u0932\\u093E\\u0907\\u0928 \\u0915\\u0930\\u0947\\u0902",
+    "context": "compose.align_center",
+    "lang": "en-IN"
+  },
+  {
+    "id": 290,
+    "english": "Hello",
+    "tamil": "வணக்கம்",
+    "hindi": "नमस्कार",
+    "context": "Word translation for 'Hello'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 291,
+    "english": "Namaste",
+    "tamil": null,
+    "hindi": "नमस्ते",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 292,
+    "english": "Artificial Intelligence is transforming the world",
+    "tamil": null,
+    "hindi": "कृत्रिम बुद्धिमत्ता दुनिया को बदल रही है।",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 293,
+    "english": "The quick brown fox jumps over the lazy dog",
+    "tamil": null,
+    "hindi": "चतुर भूरा लोमढ़ आलसी कुत्ते के ऊपर से कूद जाता है",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 294,
+    "english": "Hello world",
+    "tamil": "வணக்கம்",
+    "hindi": "नमस्ते",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 295,
+    "english": "Machine learning is awesome",
+    "tamil": null,
+    "hindi": "मशीन शिक्षा बहुत उत्तम है।",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 296,
+    "english": "connection successful",
+    "tamil": "இணைப்பு வெற்றிகரமாக",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 297,
+    "english": "delete label",
+    "tamil": "லேபிளை நீக்குதல்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 298,
+    "english": "contact details",
+    "tamil": "தொடர்பு விவரங்கள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 299,
+    "english": "the lion ate the deer",
+    "tamil": "சிங்கம் மான் உண்கிறது",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 300,
+    "english": "notification",
+    "tamil": "அறிவிப்பு",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 301,
+    "english": "important notification settings",
+    "tamil": "முக்கியமான அறிவிப்பு அமைப்புகள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 302,
+    "english": "high priority email notifications",
+    "tamil": "ஏறுது உயர் முன்னுரிமை மெயில் அறிவிப்பு",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 303,
+    "english": "high priority attachments",
+    "tamil": "உயர் முன்னுரிமை இணைப்புகள்",
+    "hindi": "उच्च प्राथमिकता अनुलग्नक",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 304,
+    "english": "delete multiple attachments",
+    "tamil": null,
+    "hindi": "एकाधिक संलग्नक हटाना",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 305,
+    "english": "நமஸ்தே",
+    "tamil": null,
+    "hindi": "நமஸ்தே",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 306,
+    "english": "important attachments ",
+    "tamil": "முக்கியமான இணைப்புகள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 307,
+    "english": "important contact details ",
+    "tamil": "முக்கியமான தேுகள் தொடர்பு விவரங்கள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 308,
+    "english": "show all important contact details ",
+    "tamil": "அனைத்தையும் காட்டு முக்கியமான தேுகள் தொடர்பு விவரங்கள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 309,
+    "english": "loading important folders",
+    "tamil": "இறங்கு முக்கியமான அவைகள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 310,
+    "english": "loading important attachments ",
+    "tamil": "இறங்கு முக்கியமான இணைப்புகள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 311,
+    "english": "search lion",
+    "tamil": "தேடு சிங்கம் மான் உண்கிறது",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 312,
+    "english": "Please submit the document for review",
+    "tamil": "மதிப்பாய்வுக்காக ஆவணத்தைச் சமர்ப்பிக்கவும்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 313,
+    "english": "document",
+    "tamil": "ஆவணம்",
+    "hindi": "दस्तावेज़",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 314,
+    "english": "signed",
+    "tamil": "கையொப்பமிடப்பட்ட",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 315,
+    "english": "The document needs to be signed",
+    "tamil": "ஆவணத்தில் கையொப்பமிட வேண்டும்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 316,
+    "english": "Set priority to high for this task",
+    "tamil": "இந்த பணிக்கு முன்னுரிமையை உயர்வாக அமைக்கவும்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 317,
+    "english": "priority",
+    "tamil": "முன்னுரிமை",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 318,
+    "english": "This is a priority message",
+    "tamil": "க்கு க்கு க்கு முன்னுரிமை செய்தி",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 319,
+    "english": "please",
+    "tamil": "தயவுசெய்து",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 320,
+    "english": "submit",
+    "tamil": "சமர்ப்பித்தல்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 321,
+    "english": "please submit attachments",
+    "tamil": "தயவுசெய்து சமர்ப்பித்தல் இணைப்புகள்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 322,
+    "english": "test",
+    "tamil": "சான்று",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 323,
+    "english": "this is a test",
+    "tamil": "இந்த இருக்கிறது ஒரு சான்று",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 324,
+    "english": "ready",
+    "tamil": "தயாராக",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 325,
+    "english": "the document is ready",
+    "tamil": "அந்த ஆவணம் இருக்கிறது தயாராக",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 326,
+    "english": "The document is important",
+    "tamil": "அந்த ஆவணம் இருக்கிறது முக்கியமான",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 327,
+    "english": "important lion",
+    "tamil": "முக்கியமான தேடு சிங்கம் மான் உண்கிறது",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 328,
+    "english": "underline high priority date",
+    "tamil": "கீச் கோடு ஏறுது முன்னுரிமை தேதி",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 329,
+    "english": "Puthiya",
+    "tamil": "புதிய",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 330,
+    "english": "Being loaded...",
+    "tamil": "ஏற்றப்படுகிறது...",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 331,
+    "english": "Everything",
+    "tamil": "அனைத்தையும்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 332,
+    "english": "Forest",
+    "tamil": "காட்டு",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 334,
+    "english": "Retaliation",
+    "tamil": "பதிலடி",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 337,
+    "english": "world",
+    "tamil": null,
+    "hindi": "मानवजाति",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 338,
+    "english": "Document",
+    "tamil": null,
+    "hindi": "दस्तावेज़",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 339,
+    "english": "Important message",
+    "tamil": "முக்கியமான செய்தி",
+    "hindi": "महत्वपूर्ण संदेश",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 344,
+    "english": "World",
+    "tamil": "உலகம்",
+    "hindi": "दुनिया",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 349,
+    "english": "Mailai",
+    "tamil": "மெயிலை",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": 351,
+    "english": "Duni",
+    "tamil": null,
+    "hindi": "दुनिया",
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": null,
+    "english": "Duni",
+    "tamil": null,
+    "hindi": "दुनिया",
+    "context": "Word translation for 'दुनिया'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 351,
+    "english": "Elevation",
+    "tamil": "மேல்ேற்றம்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": null,
+    "english": "Elevation",
+    "tamil": "மேல்ேற்றம்",
+    "hindi": null,
+    "context": "Word translation for 'மேல்ேற்றம்'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 352,
+    "english": "Mobility",
+    "tamil": "நடைபேறுதல்",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": null,
+    "english": "Mobility",
+    "tamil": "நடைபேறுதல்",
+    "hindi": null,
+    "context": "Word translation for 'நடைபேறுதல்'",
+    "lang": "en-IN"
+  },
+  {
+    "id": null,
+    "english": "Warning",
+    "tamil": "எச்சரிக்கை",
+    "hindi": null,
+    "context": "Word translation for 'எச்சரிக்கை'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 354,
+    "english": "Mundettu",
+    "tamil": "முன்னேற்று",
+    "hindi": null,
+    "context": null,
+    "lang": "en-IN"
+  },
+  {
+    "id": null,
+    "english": "Mundettu",
+    "tamil": "முன்னேற்று",
+    "hindi": null,
+    "context": "Word translation for 'முன்னேற்று'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 355,
+    "english": "viewer",
+    "tamil": null,
+    "hindi": "दर्शक",
+    "context": "Word translation for 'viewer'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 356,
+    "english": "Document viewer",
+    "tamil": null,
+    "hindi": "दस्तावेज़ दर्शक",
+    "context": "Word-by-word translation of 'Document viewer'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 357,
+    "english": "Hello world World",
+    "tamil": "வணக்கம் உலகம்",
+    "hindi": null,
+    "context": "Word-by-word translation of 'வணக்கம் உலகம்'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 362,
+    "english": "beautiful",
+    "tamil": "அழகான",
+    "hindi": null,
+    "context": "Word translation for 'beautiful'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 363,
+    "english": "Hello beautiful world",
+    "tamil": "வணக்கம் அழகான உலகம்",
+    "hindi": null,
+    "context": "Word-by-word translation of 'Hello beautiful world'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 364,
+    "english": "browser",
+    "tamil": null,
+    "hindi": "ब्राउज़र",
+    "context": "Word translation for 'browser'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 365,
+    "english": "Document browser",
+    "tamil": null,
+    "hindi": "दस्तावेज़ ब्राउज़र",
+    "context": "Word-by-word translation of 'Document browser'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 366,
+    "english": "Sundar",
+    "tamil": null,
+    "hindi": "सुंदर",
+    "context": "Word translation for 'सुंदर'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 367,
+    "english": "Hello world Sundar World",
+    "tamil": null,
+    "hindi": "नमस्ते सुंदर दुनिया",
+    "context": "Word-by-word translation of 'नमस्ते सुंदर दुनिया'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 368,
+    "english": "email settings",
+    "tamil": "மின்னஞ்சல் அமைப்புகள்",
+    "hindi": "ईमेल सेटिंग्स",
+    "context": "Settings menu",
+    "lang": "en-IN"
+  },
+  {
+    "id": 369,
+    "english": "attachment download failed",
+    "tamil": "இணைப்பு பதிவிறக்கம் தோல்வியடைந்தது",
+    "hindi": "अटैचमेंट डाउनलोड विफल",
+    "context": "Error message",
+    "lang": "en-IN"
+  },
+  {
+    "id": 370,
+    "english": "high priority message",
+    "tamil": "உயர் முன்னுரிமை செய்தி",
+    "hindi": "उच्च प्राथमिकता संदेश",
+    "context": "Message priority",
+    "lang": "en-IN"
+  },
+  {
+    "id": 371,
+    "english": "file compression settings",
+    "tamil": "கோப்பு சுருக்க அமைப்புகள்",
+    "hindi": null,
+    "context": "Advanced settings",
+    "lang": "en-IN"
+  },
+  {
+    "id": 372,
+    "english": "folder",
+    "tamil": null,
+    "hindi": "फोल्डर",
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 373,
+    "english": "forest",
+    "tamil": "காட்டு",
+    "hindi": "जंगल",
+    "context": "Auto-completed triplet",
+    "lang": "en-IN"
+  },
+  {
+    "id": 374,
+    "english": "folder deleted",
+    "tamil": "கோப்புறை நீக்கு",
+    "hindi": null,
+    "context": "Word-by-word translation of 'folder deleted'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 375,
+    "english": "loading important files",
+    "tamil": "இறங்கு முக்கியமான அவைகள்",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 376,
+    "english": "there is a big folder that is stored inside the repo",
+    "tamil": "கோப்புறை",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 377,
+    "english": "there was an old man that had lived in here 100 years ago",
+    "tamil": null,
+    "hindi": "ऑन किसको एक तारांकित एक वह किसको रद्द करें में ऑन நமஸ்தே किसको पिछला",
+    "context": "Word-by-word translation of 'there was an old man that had lived in here 100 years ago'",
+    "lang": "en-IN"
+  },
+  {
+    "id": 378,
+    "english": "it is said that the dinosaurs have went extinct millions of years ago",
+    "tamil": "100 ஆண்டுகளுக்கு முன்பு இங்கு ஒரு முதியவர் வசித்து வந்தார்.",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 379,
+    "english": "the biggest land carnivore is the polar bear",
+    "tamil": "சிங்கம் மான் உண்கிறது",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 380,
+    "english": "there have been multiple cases if the coronavirus thatt's  being reported all across India",
+    "tamil": null,
+    "hindi": "यदि भेजने वाला",
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 381,
+    "english": "delete folder",
+    "tamil": "கோப்புறை நீக்கு",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 382,
+    "english": "Zoho Projects enabled me to better manage the people. I had no idea how they worked before",
+    "tamil": "வரைவுகள்",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 383,
+    "english": "Zoho Projects 7: First Impressions & Feedback",
+    "tamil": "வரைவுகள்",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  },
+  {
+    "id": 392,
+    "english": "It has helped us to achieve about 300% growth rate for our business.",
+    "tamil": "இது எங்கள் வணிகத்திற்கு 300% வளர்ச்சி விகிதத்தை அடைய உதவியது.",
+    "hindi": "किसको किसको अताच करें ऑन किसको सफलता किसको நமஸ்தே आरोही रद्द करें के लिए ऑन ऑन",
+    "context": "Auto-completed triplet",
+    "lang": "en-IN"
+  },
+  {
+    "id": 393,
+    "english": "Before Zoho, we were chained to the desk at the office, after Zoho, we can be anywhere and be in charge of our projects",
+    "tamil": "வரைவுகள்",
+    "hindi": null,
+    "context": "Semantic match translation",
+    "lang": "en-IN"
+  }
+]

@@ -1,0 +1,14 @@
+Metric,Value,Description
+Total Entries,404.0,Total number of translation entries
+English Entries,387.0,Entries with English text
+Tamil Entries,202.0,Entries with Tamil text
+Hindi Entries,347.0,Entries with Hindi text
+Complete Triplets,136.0,Entries with all 3 languages
+Partial Entries,268.0,Entries missing one or more languages
+English-Tamil Pairs,186.0,Entries with both English and Tamil
+English-Hindi Pairs,337.0,Entries with both English and Hindi
+Tamil-Hindi Pairs,145.0,Entries with both Tamil and Hindi
+Avg English Length,23.25,Average character length of English text
+Avg Tamil Length,34.57,Average character length of Tamil text
+Avg Hindi Length,14.0,Average character length of Hindi text
+Unique Contexts,308.0,Number of unique context tags

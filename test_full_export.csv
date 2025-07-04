@@ -1,0 +1,432 @@
+ID,English,Tamil,Hindi,Context,Timestamp,Has_English,Has_Tamil,Has_Hindi,Languages_Count,Entry_Type,English_Length,Tamil_Length,Hindi_Length
+1,High Priority,உயர் முன்னுரிமை,उच्च प्राथमिकता,compose.priority_high,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,13,15,15
+2,Filter,வடிகட்டு,फिल्टर,email_list.filter,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,8,6
+3,Underline,கீச் கோடு,अंडरलाइन,compose.underline,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,9,9,8
+4,Date,தேதி,तारीख,common.date,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,4,4,5
+5,Unmark as Important,முக்கியமில்லை என குறி,महत्वपूर्ण चिह्न हटाएं,email_list.unmark_important,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,19,21,22
+6,Signature saved,,हस्ताक्षर सेव हो गया,messages.signature_saved,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,20
+7,Custom Folders,,कस्टम फोल्डर,folders.custom_folders,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,12
+8,Attachments,இணைப்புகள்,अताचमेंट,email_view.attachments,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,10,8
+9,Label Color,,लेबल का रंग,labels.label_color,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,11
+10,Select,,चुनें,common.select,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,6,0,5
+11,Enable,,सक्षम करें,common.enable,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,6,0,10
+12,Email Notifications,,ईमेल सूचनाएं,notifications.email_notifications,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,19,0,12
+13,New Email,புதிய மெயில்,नए मेल,compose.new_email,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,9,12,6
+14,Archive,ஆர்கைவ்,आर्काइव करें,email_view.archive,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,7,12
+15,Label applied,,लेबल लगाया गया,messages.label_applied,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,14
+16,Important,முக்கியமான,महत्वपूर्ण,navigation.important,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,9,10,10
+17,Delete,நீக்கு,डिलीट करें,email_list.delete,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,6,10
+18,Delete Contact,,संपर्क डिलीट करें,contacts.delete_contact,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,17
+19,Font Size,எழுத்து அளவு,फॉन्ट साइज़,compose.font_size,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,9,12,11
+20,Phone Number,,फोन नंबर,contacts.phone_number,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,8
+21,Delete Filter,,फिल्टर डिलीट करें,filters.delete_filter,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,17
+22,BCC,பிஸிஸி,बीसीसी,compose.bcc,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,3,6,6
+23,Size,அளவு,आकार,email_list.sort_size,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,4,4,4
+24,Server error,,सर्वर त्रुटि,errors.server_error,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,12
+25,Label,லேபல்,लेबल,email_list.label,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,5,5,4
+26,Upload failed,,अपलोड असफल,errors.upload_failed,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,10
+27,Invalid email address,,अमान्य ईमेल पता,errors.invalid_email,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,21,0,15
+28,Filter Rules,,फिल्टर नियम,filters.filter_rules,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,11
+29,Company,,कंपनी,contacts.company,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,7,0,5
+30,Subject,விட\u0BAYம்,विषय,compose.subject,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,11,4
+31,Open,,खोलें,common.open,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,4,0,5
+32,Print,அச்சிடு,प्रिंट करें,email_view.print,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,5,7,11
+33,Create Signature,,हस्ताक्षर बनाएं,signatures.create_signature,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,16,0,15
+34,Reply Signature,,जवाब हस्ताक्षर,signatures.reply_signature,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,14
+35,Manage Labels,,लेबल प्रबंधित करें,labels.manage_labels,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,18
+36,Recent Contacts,,हाल के संपर्क,contacts.recent_contacts,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,13
+37,Folder Name,,फोल्डर का नाम,folders.folder_name,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,13
+38,Remove,நீக்கு,हटाएं,common.remove,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,6,5
+39,Success,வெற்றி,सफलता,app.success,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,6,5
+40,Sender,அனுப்புநர்,भेजने वाला,email_list.sort_sender,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,10,10
+41,Maximum file size exceeded,அதிகபட்ச கோவை அளவு மீறப்பட்டது,अधिकतम फाइल आकार पार हो गया,attachments.max_size_exceeded,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,26,30,27
+42,Inbox,இன்பாக்ஸ்,इनबॉक्स,navigation.inbox,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,5,9,7
+43,Create Group,,ग्रुप बनाएं,contacts.create_group,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,11
+44,Numbered List,எண் பட்டிம்,नंबर्ड लिस्ट,compose.numbered_list,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,13,11,12
+45,Connection Failed,,कनेक्शन असफल,account.connection_failed,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,17,0,12
+46,Bullet List,புள்ளி பட்டிம்,बुलेट लिस्ट,compose.bullet_list,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,14,11
+47,Signature Name,,हस्ताक्षर का नाम,signatures.signature_name,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,16
+48,Deselect,,चयन हटाएं,common.deselect,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,8,0,9
+49,No labels applied,,कोई लेबल लागू नहीं,labels.no_labels,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,17,0,18
+50,Notifications,,सूचनाएं,settings.notifications,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,7
+51,Hide Details,விவரங்களை மறை,विवरण छिपाएं,email_view.hide_details,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,12,13,12
+52,New Password,,नया पासवर्ड,security.new_password,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,11
+53,Previous,முந்தைய,पिछला,email_view.previous,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,8,7,5
+54,Reply,பதிலடி,जवाब दें,email_list.reply,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,5,6,8
+55,Loading...,ஏற்றப்படுகிறது...,लोड हो रहा है...,app.loading,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,10,17,16
+56,Failed to save,,सेव करने में असफल,errors.save_failed,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,17
+57,Edit Filter,,फिल्टर संपादित करें,filters.edit_filter,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,19
+58,Delete Folder,,फोल्डर डिलीट करें,folders.delete_folder,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,17
+59,Timezone,,समय क्षेत्र,settings.timezone,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,8,0,11
+60,New Mail Sound,,नए मेल की आवाज़,notifications.new_mail_sound,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,15
+61,Density,,घनत्व,settings.density,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,7,0,5
+62,Email marked as unread,,ईमेल को अनपढ़ा के रूप में चिह्नित किया गया,messages.email_marked_unread,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,22,0,42
+63,On,,ऑन,common.on,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,2,0,2
+64,Show Unread,படிக்காததை காட்டு,अनपढ़े दिखाएं,email_list.show_unread,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,17,13
+65,Label removed,,लेबल हटाया गया,messages.label_removed,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,14
+66,Start Time,,शुरू का समय,notifications.start_time,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,11
+67,Search,தேடு,खोजें,email_list.search,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,4,5
+68,Message,செய்தி,संदेश,compose.message,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,6,5
+69,Edit Signature,,हस्ताक्षर संपादित करें,signatures.edit_signature,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,22
+70,Email archived,,ईमेल आर्काइव हो गया,messages.email_archived,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,19
+71,Confirm Password,,पासवर्ड की पुष्टि करें,security.confirm_password,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,16,0,22
+72,Folders,அவைகள்,फोल्डर,navigation.folders,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,6,6
+73,Then forward to,,तो आगे भेजें,filters.then_forward,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,12
+74,Accounts,,खाते,settings.accounts,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,8,0,4
+75,Add Contact,,संपर्क जोड़ें,contacts.add_contact,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,13
+76,This folder is empty,,यह फोल्डर खाली है,folders.folder_empty,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,20,0,17
+77,Port,,पोर्ट,account.port,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,4,0,5
+78,First Name,,पहला नाम,contacts.first_name,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,8
+79,Insert Link,இணைப்பை சேர்,लिंक डालें,compose.insert_link,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,12,10
+80,General,,सामान्य,settings.general,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,7,0,7
+81,Yesterday,,बीता कल,common.yesterday,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,9,0,7
+82,Edit,,संपादित करें,common.edit,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,4,0,12
+83,Create Filter,,फिल्टर बनाएं,filters.create_filter,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,12
+84,Incoming Server,,आने वाला सर्वर,account.incoming_server,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,14
+85,Name,,नाम,common.name,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,4,0,3
+86,Groups,,ग्रुप,contacts.groups,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,6,0,5
+87,Next,அடுத்த,अगला,email_view.next,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,4,6,4
+88,Italic,சரிவு,इटैलिक,compose.italic,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,5,6
+89,Email deleted,,ईमेल डिलीट हो गया,messages.email_deleted,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,17
+90,Contacts,தேுகள்,संपर्क,contacts.contacts,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,8,6,6
+91,To,க்கு,किसको,compose.to,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,2,4,5
+92,Add to Contacts,தேடுகளில் சேர்,संपर्क में जोड़ें,email_view.add_to_contacts,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,15,14,17
+93,Mark as Important,முக்கியமாக குறி,महत्वपूर्ण चिह्नित करें,email_list.mark_important,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,17,15,23
+94,Drafts,வரைவுகள்,ड्राफ्ट,navigation.drafts,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,8,7
+95,Starred,நட்சத்திரங்கள்,तारांकित,navigation.starred,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,14,8
+96,Then delete,,तो डिलीट करें,filters.then_delete,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,13
+97,Show Badge Count,,बैज गिनती दिखाएं,notifications.badge_count,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,16,0,16
+98,Off,,ऑफ,common.off,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,3,0,2
+99,Contact added,,संपर्क जोड़ा गया,messages.contact_added,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,16
+100,Yes,,हाँ,common.yes,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,3,0,3
+101,An unknown error occurred,,अज्ञात त्रुटि आई,errors.unknown_error,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,25,0,16
+102,Clear,,साफ करें,common.clear,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,5,0,8
+103,Refresh,புதுப்பி,रिफ्रेश करें,email_list.refresh,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,8,12
+104,Send Later,பின்னர் அனுப்பு,बाद में भेजें,compose.send_later,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,10,15,13
+105,Upload Failed,மேல்ேற்றம் தோல்வி,अपलोड असफल,attachments.upload_failed,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,13,17,10
+106,Failed to send email,,ईमेल भेजने में असफल,errors.send_failed,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,20,0,19
+107,Reset,,रीसेट करें,common.reset,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,5,0,10
+108,Move to Folder,,फोल्डर में ले जाएं,folders.move_to_folder,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,18
+109,Empty Folder,,खाली फोल्डर,folders.empty_folder,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,11
+110,Attach File,குவள் இணை,फाइल अटैच करें,compose.attach_file,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,9,14
+111,Account Settings,,खाता सेटिंग्स,account.account_settings,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,16,0,13
+112,Enable Notifications,,सूचनाएं सक्षम करें,notifications.enable_notifications,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,20,0,18
+113,Backup Codes,,बैकअप कोड,security.backup_codes,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,9
+114,Create Folder,,फोल्डर बनाएं,folders.create_folder,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,12
+115,This field is required,,यह फ़ील्ड आवश्यक है,errors.required_field,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,22,0,19
+116,Show Starred,நட்சத்திரங்களை காட்டு,तारांकित दिखाएं,email_list.show_starred,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,12,21,15
+117,Star,நட்சத்திரம்,तारा लगाएं,email_list.star,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,4,11,10
+118,From,இருந்து,किसकी ओर से,email_view.from,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,4,7,11
+119,Forwarding,,फॉरवर्डिंग,settings.forwarding,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,10
+120,Actions,,कार्य,filters.actions,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,7,0,5
+121,Label Name,,लेबल का नाम,labels.label_name,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,11
+122,Search Mail,மெயிலை தேடு,मेल खोजें,search.search_mail,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,11,9
+123,Login History,,लॉगिन इतिहास,security.login_history,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,12
+124,Discard,வெறியே,रद्द करें,compose.discard,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,6,9
+125,Unstar,நட்சத்திரத்தை நீக்கு,तारा हटाएं,email_view.unstar,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,6,20,10
+126,Folder deleted,,फोल्डर डिलीट हो गया,messages.folder_deleted,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,19
+127,Has Attachment,இணைப்பு உள்ளது,अताचमेंट के साथ,search.has_attachment,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,14,14,15
+128,Sound Notifications,,ध्वनि सूचनाएं,notifications.sound_notifications,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,19,0,13
+129,Signatures,,हस्ताक्षर,settings.signatures,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,9
+130,Show Original,மூலத்தை காட்டு,मूल दिखाएं,email_view.show_original,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,13,14,10
+131,If recipient,,यदि प्राप्तकर्ता,filters.if_recipient,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,16
+132,Contact updated,,संपर्क अपडेट हो गया,messages.contact_updated,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,19
+133,Display Name,,प्रदर्शित नाम,account.display_name,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,13
+134,Preview,முன்நோட்டம்,पूर्वावलोकन,attachments.preview,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,11,11
+135,No Signature,,कोई हस्ताक्षर नहीं,signatures.no_signature,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,18
+136,Change Password,,पासवर्ड बदलें,security.change_password,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,15,0,13
+137,Appearance,,दिखावट,settings.appearance,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,6
+138,File Size,கோவை அளவு,फाइल का आकार,attachments.file_size,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,9,9,12
+139,Download,இறங்கு,डाउनलोड करें,email_list.download,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,8,6,12
+140,Compose,எழுது,लिखें,compose.compose,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,5,5
+141,Auto Theme,,ऑटो थीम,settings.auto_theme,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,10,0,7
+142,Filter created,,फिल्टर बनाया गया,messages.filter_created,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,16
+143,Description,,विवरण,common.description,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,5
+144,Forward,முன்னேற்று,आगे भेजें,email_list.forward,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,7,10,9
+145,Parent Folder,,मूल फोल्डर,folders.parent_folder,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,13,0,10
+146,Comfortable,,आरामदायक,settings.comfortable,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,11,0,8
+147,Save,,सेव करें,common.save,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,4,0,8
+148,Folder created,,फोल्डर बनाया गया,messages.folder_created,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,16
+149,Current Password,,वर्तमान पासवर्ड,security.current_password,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,16,0,15
+150,Show Preview,,पूर्वावलोकन दिखाएं,notifications.notification_preview,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,12,0,18
+151,Email sent successfully,,ईमेल सफलतापूर्वक भेजा गया,messages.email_sent,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,23,0,25
+152,Align Right,வலது சேர்ப்பு,दाएं अलाइन करें,compose.align_right,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,11,13,15
+153,Revoke Session,,सत्र रद्द करें,security.revoke_session,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,14,0,14
+154,Generate Password,,पासवर्ड जेनरेट करें,security.generate_password,2025-06-02 05:49:50,True,False,True,2,Partial_Entry,17,0,19
+155,Show All,அனைத்தையும் காட்டு,सभी दिखाएं,email_list.show_all,2025-06-02 05:49:50,True,True,True,3,Complete_Triplet,8,18,10
+156,Show Details,விவரங்களை காட்டு,विवरण दिखाएं,email_view.show_details,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,16,12
+157,Compact,,संकुचित,settings.compact,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,7,0,7
+158,Frequent Contacts,,अक्सर उपयोग किए जाने वाले संपर्क,contacts.frequent_contacts,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,17,0,32
+159,If body contains,,यदि मुख्य भाग में शामिल है,filters.if_body,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,16,0,26
+160,Insert Signature,,हस्ताक्षर डालें,signatures.insert_signature,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,16,0,15
+161,Email Address,,ईमेल पता,account.email_address,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,8
+162,Date Format,,तारीख प्रारूप,settings.date_format,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,13
+163,System Folders,,सिस्टम फोल्डर,folders.system_folders,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,13
+164,Filter Name,,फिल्टर का नाम,filters.filter_name,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,13
+165,Snooze,உறங்கு,स्नूज़,email_list.snooze,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,6,6,6
+166,Authentication,,प्रमाणीकरण,account.authentication,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,10
+167,Spam,ஸ்பாம்,स्पैम,navigation.spam,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,4,6,5
+168,Request timeout,,समय समाप्ति त्रुटि,errors.timeout_error,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,18
+169,Dark Theme,,गहरा थीम,settings.dark_theme,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,10,0,8
+170,Settings,அமைப்புகள்,सेटिंग्स,settings.settings,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,8,10,8
+171,If sender,,यदि भेजने वाला,filters.if_sender,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,9,0,14
+172,Apply Label,,लेबल लगाएं,labels.apply_label,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,10
+173,Descending,இறங்கு,अवरोही,email_list.descending,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,6,6
+174,Sent,அனுப்பப்பட்டது,भेजे गए,navigation.sent,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,4,14,7
+175,Active Sessions,,सक्रिय सत्र,security.active_sessions,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,11
+176,Quiet Hours,,शांत समय,notifications.quiet_hours,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,8
+177,Rename Folder,,फोल्डर का नाम बदलें,folders.rename_folder,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,19
+178,Remove Label,,लेबल हटाएं,labels.remove_label,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,12,0,10
+179,Language,,भाषा,settings.language,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,8,0,4
+180,Settings saved,,सेटिंग्स सेव हो गईं,messages.settings_saved,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,19
+181,Contact deleted,,संपर्क डिलीट हो गया,messages.contact_deleted,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,19
+182,Recent Searches,,हाल की खोजें,search.recent_searches,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,12
+183,OK,,ठीक,common.ok,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,2,0,3
+184,Trash,குப்பை,कूड़ेदान,navigation.trash,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,5,6,8
+185,Invalid file type,அனுமதிக்கப்படாத கோவை வகை,अमान्य फाइल प्रकार,attachments.invalid_file_type,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,17,24,18
+186,Then apply label,,तो लेबल लगाएं,filters.then_label,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,16,0,13
+187,Auto Reply,,ऑटो रिप्लाई,settings.auto_reply,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,10,0,11
+188,Email unstarred,,ईमेल से तारा हटाया गया,messages.email_unstarred,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,22
+189,Mail,மெயில்,मेल,app.title,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,4,6,3
+190,Date Range,தேதி வ஼6ள்ளை,तारीख की रेंज,search.date_range,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,12,13
+191,Security,,सुरक्षा,account.security,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,8,0,7
+192,Draft saved,,ड्राफ्ट सेव हो गया,messages.email_saved,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,18
+193,Then move to,,तो यहां ले जाएं,filters.then_move_to,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,12,0,15
+194,Emails deleted,,ईमेल डिलीट हो गईं,messages.emails_deleted,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,17
+195,Last Name,,अंतिम नाम,contacts.last_name,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,9,0,9
+196,Message Body,செய்தி உள்ளடக்கம்,संदेश मुख्य भाग,search.search_body,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,17,15
+197,Sync Settings,,सिंक सेटिंग्स,account.sync_settings,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,13
+198,If subject,,यदि विषय,filters.if_subject,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,10,0,8
+199,Email starred,,ईमेल में तारा लगाया गया,messages.email_starred,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,23
+200,Emails archived,,ईमेल आर्काइव हो गईं,messages.emails_archived,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,19
+201,Mark as Unread,படிக்காததாக குறி,अनपढ़ा के रूप में चिह्नित करें,email_list.mark_unread,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,14,16,30
+202,Attach,இணை,अताच करें,attachments.attach,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,6,3,9
+203,Normal Priority,சாதாரண முன்னுரிமை,सामान्य प्राथमिकता,compose.priority_normal,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,15,17,18
+204,Drag and drop files here or click to browse,கோவைகளை இங்கே இழுக்கவும் துக்கவும் அல்லது பார்க்க க்ளிக் செய்யவும்,फाइलों को यहां खींचें और छोड़ें या ब्राउज़ करने के लिए क्लिक करें,attachments.drag_drop,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,43,66,65
+205,Passwords do not match,,पासवर्ड मेल नहीं खाते,errors.password_mismatch,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,22,0,21
+206,Theme,,थीम,settings.theme,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,5,0,3
+207,Warning,எச்சரிக்கை,चेतावनी,app.warning,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,7,10,7
+208,Conditions,,शर्तें,filters.conditions,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,10,0,6
+209,Send,அனுப்பு,भेजें,compose.send,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,4,7,5
+210,Advanced Search,முன்னடிவ தேடல்,उन्नत खोज,search.advanced_search,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,15,14,9
+211,Labels,லேபல்கள்,लेबल,navigation.labels,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,6,8,4
+212,Edit Label,,लेबल संपादित करें,labels.edit_label,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,10,0,17
+213,Mail Application,மெயில் அப்ளிகேஷன்,मेल एप्लिकेशन,app.name,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,16,17,13
+214,Password,,पासवर्ड,account.password,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,8,0,7
+215,End Time,,अंत का समय,notifications.end_time,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,8,0,10
+216,Network error,,नेटवर्क त्रुटि,errors.network_error,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,14
+217,Sync Frequency,,सिंक आवृत्ति,account.sync_frequency,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,12
+218,Password is too weak,,पासवर्ड बहुत कमज़ोर है,errors.weak_password,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,20,0,22
+219,Disable,,अक्षम करें,common.disable,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,7,0,10
+220,No,,नहीं,common.no,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,2,0,4
+221,Upload Complete,மேல்ேற்றம் முடிந்தது,अपलोड पूरा हो गया,attachments.upload_complete,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,15,20,17
+222,Move to,இங்கு நகர்த்து,यहां ले जाएं,email_list.move_to,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,7,14,12
+223,Delete Signature,,हस्ताक्षर डिलीट करें,signatures.delete_signature,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,16,0,20
+224,Error,பிழை,त्रुटि,app.error,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,5,4,6
+225,File Type,கோவை வகை,फाइल का प्रकार,attachments.file_type,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,9,8,14
+226,Search Results,தேடல் முடிவுகள்,खोज परिणाम,search.search_results,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,14,15,10
+227,Add Account,,खाता जोड़ें,account.add_account,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,11
+228,Security Questions,,सुरक्षा प्रश्न,security.security_questions,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,18,0,14
+229,Align Left,இடது சேர்ப்பு,बाएं अलाइन करें,compose.align_left,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,13,15
+230,Back to List,பட்டியலுக்கு திரும்பு,सूची में वापस जाएं,email_view.back_to_list,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,21,18
+231,Reply All,அனைவருக்கும் பதிலடி,सभी को जवाब दें,email_view.reply_all,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,9,19,15
+232,Font Color,எழுத்து நிறம்,फॉन्ट का रंग,compose.font_color,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,13,12
+233,Failed to delete,,डिलीट करने में असफल,errors.delete_failed,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,16,0,19
+234,Connection error,,कनेक्शन त्रुटि,errors.connection_error,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,16,0,14
+235,Schedule Send,நேரத்தில் அனுப்பு,संकेतित समय पर भेजें,compose.schedule_send,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,13,17,20
+236,Cancel,,रद्द करें,common.cancel,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,6,0,9
+237,Import/Export,,इंपोर्ट/एक्सपोर्ट,settings.import_export,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,17
+238,Select All,அனைத்தையும் தேர்வு செய்,सभी का चयन करें,email_list.select_all,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,23,15
+239,Outgoing Server,,बाहर जाने वाला सर्वर,account.outgoing_server,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,20
+240,No results found,முடிவுகள் கிடைக்கவி\u0BB,कोई परिणाम नहीं मिला,search.no_results,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,16,24,20
+241,File is too large,,फाइल बहुत बड़ी है,errors.file_too_large,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,17,0,17
+242,Add,,जोड़ें,common.add,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,3,0,6
+243,Apply,,लागू करें,common.apply,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,5,0,9
+244,Version,பதிப்பு,संस्करण,app.version,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,7,7,7
+245,Upload Progress,மேல்ேற்றம் நடைபேறுதல்,अपलोड प्रगति,attachments.upload_progress,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,15,21,12
+246,Not Spam,ஸ்பாம் இல்லை,स्पैम नहीं,email_view.not_spam,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,8,12,10
+247,Server Settings,,सर्वर सेटिंग्स,account.server_settings,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,14
+248,Time,,समय,common.time,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,4,0,3
+249,Sync Period,,सिंक अवधि,account.sync_period,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,9
+250,Test Connection,,कनेक्शन टेस्ट करें,account.test_connection,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,18
+251,Sort by,வரிசைபடுத்து,इस आधार पर क्रमबद्ध करें,email_list.sort_by,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,7,12,24
+252,Create,,बनाएं,common.create,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,6,0,5
+253,Information,தகவல்,जानकारी,app.info,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,11,5,7
+254,Default Signature,,डिफॉल्ट हस्ताक्षर,signatures.default_signature,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,17,0,17
+255,Bold,தடிச்சு,बोल्ड,compose.bold,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,4,7,5
+256,Save Draft,வரைவினை சேமி,ड्राफ्ट सेव करें,compose.save_draft,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,12,16
+257,Desktop Notifications,,डेस्कटॉप सूचनाएं,notifications.desktop_notifications,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,21,0,16
+258,Mark as Spam,ஸ்பாமாக குறி,स्पैम के रूप में चिह्नित करें,email_view.mark_spam,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,12,29
+259,Mark as Read,படித்ததாக குறி,पढ़ा गया के रूप में चिह्नित करें,email_list.mark_read,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,14,32
+260,Notes,,नोट्स,contacts.notes,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,5,0,5
+261,Insert Image,படத்தை சேர்,चित्र डालें,compose.insert_image,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,11,11
+262,Create Label,,लेबल बनाएं,labels.create_label,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,12,0,10
+263,Save Search,,खोज सेव करें,search.save_search,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,12
+264,Edit Contact,,संपर्क संपादित करें,contacts.edit_contact,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,12,0,19
+265,Time Format,,समय प्रारूप,settings.time_format,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,11
+266,Email marked as read,,ईमेल को पढ़ा गया के रूप में चिह्नित किया गया,messages.email_marked_read,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,20,0,44
+267,Authentication failed,,प्रमाणीकरण असफल,errors.authentication_failed,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,21,0,15
+268,Clear Search,,खोज साफ करें,search.clear_search,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,12,0,12
+269,Contact Details,,संपर्क विवरण,contacts.contact_details,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,15,0,12
+270,CC,ஸிஸி,सीसी,compose.cc,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,2,4,4
+271,Remove Account,,खाता हटाएं,account.remove_account,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,10
+272,Deselect All,அனைத்தையும் தேர்வை தவிர்,सभी का चयन हटाएं,email_list.deselect_all,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,24,16
+273,Download All,அனைத்தையும் இறங்கு,सभी डाउनलोड करें,email_view.download_all,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,18,16
+274,Two-Factor Authentication,,दो-कारक प्रमाणीकरण,security.two_factor_auth,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,25,0,18
+275,Confirm,,पुष्टि करें,common.confirm,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,7,0,11
+276,Formatting,வடிவமைப்பு,फॉरमैटिंग,compose.formatting,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,10,10,9
+277,Delete Label,,लेबल डिलीट करें,labels.delete_label,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,12,0,15
+278,Light Theme,,हल्का थीम,settings.light_theme,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,11,0,9
+279,Close,,बंद करें,common.close,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,5,0,8
+280,Then star,,तो तारा लगाएं,filters.then_star,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,9,0,13
+281,Filters,,फिल्टर,settings.filters,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,7,0,6
+282,Background Color,பின்னணி நிறம்,बैकग्राउंड का रंग,compose.background_color,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,16,13,17
+283,Low Priority,குறைவான முன்னுரிமை,कम प्राथमिकता,compose.priority_low,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,18,13
+284,App Passwords,,एप पासवर्ड,security.app_passwords,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,13,0,10
+285,Connection Successful,,कनेक्शन सफल,account.connection_successful,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,21,0,11
+286,Ascending,ஏறுது,आरोही,email_list.ascending,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,9,5,5
+287,Cozy,,सुविधाजनक,settings.cozy,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,4,0,9
+288,Signature Text,,हस्ताक्षर पाठ,signatures.signature_text,2025-06-02 05:49:51,True,False,True,2,Partial_Entry,14,0,13
+289,Align Center,நடுவில் சேர்\u0BAP்பு,केंद्र में अलाइन करें,compose.align_center,2025-06-02 05:49:51,True,True,True,3,Complete_Triplet,12,21,21
+290,Hello,வணக்கம்,नमस्कार,API translation of 'Hello',2025-06-02 05:49:52,True,True,True,3,Complete_Triplet,5,7,7
+291,Namaste,,नमस्ते,,2025-06-02 05:49:52,True,False,True,2,Partial_Entry,7,0,6
+292,Artificial Intelligence is transforming the world,,कृत्रिम बुद्धिमत्ता दुनिया को बदल रही है।,,2025-06-02 05:51:10,True,False,True,2,Partial_Entry,49,0,41
+293,The quick brown fox jumps over the lazy dog,,चतुर भूरा लोमढ़ आलसी कुत्ते के ऊपर से कूद जाता है,,2025-06-02 05:51:10,True,False,True,2,Partial_Entry,43,0,48
+294,Hello world,வணக்கம்,नमस्ते,,2025-06-02 05:51:11,True,True,True,3,Complete_Triplet,11,7,6
+295,Machine learning is awesome,,मशीन शिक्षा बहुत उत्तम है।,,2025-06-02 05:51:11,True,False,True,2,Partial_Entry,27,0,26
+296,connection successful,இணைப்பு வெற்றிகரமாக,,,2025-06-02 05:52:14,True,True,False,2,Partial_Entry,21,19,0
+297,delete label,லேபிளை நீக்குதல்,लेबल डिलीट करें,From web interface,2025-06-02 05:52:48,True,True,True,3,Complete_Triplet,12,16,15
+298,contact details,தொடர்பு விவரங்கள்,,,2025-06-02 05:53:18,True,True,False,2,Partial_Entry,15,17,0
+299,the lion ate the deer,சிங்கம் மான் உண்கிறது,,,2025-06-02 06:05:10,True,True,False,2,Partial_Entry,21,21,0
+300,notification,அறிவிப்பு,,,2025-06-02 06:22:06,True,True,False,2,Partial_Entry,12,9,0
+301,important notification settings,முக்கியமான அறிவிப்பு அமைப்புகள்,,,2025-06-02 06:22:07,True,True,False,2,Partial_Entry,31,31,0
+302,high priority email notifications,ஏறுது உயர் முன்னுரிமை மெயில் அறிவிப்பு,,,2025-06-02 06:22:07,True,True,False,2,Partial_Entry,33,38,0
+303,high priority attachments,உயர் முன்னுரிமை இணைப்புகள்,उच्च प्राथमिकता अनुलग्नक,,2025-06-02 06:23:05,True,True,True,3,Complete_Triplet,25,26,24
+304,delete multiple attachments,,एकाधिक संलग्नक हटाना,,2025-06-02 06:23:05,True,False,True,2,Partial_Entry,27,0,20
+305,நமஸ்தே,,நமஸ்தே,,2025-06-02 06:29:35,True,False,True,2,Partial_Entry,6,0,6
+306,important attachments ,முக்கியமான இணைப்புகள்,,,2025-06-02 06:34:40,True,True,False,2,Partial_Entry,22,21,0
+307,important contact details ,முக்கியமான தேுகள் தொடர்பு விவரங்கள்,,,2025-06-02 06:35:15,True,True,False,2,Partial_Entry,26,35,0
+308,show all important contact details ,அனைத்தையும் காட்டு முக்கியமான தேுகள் தொடர்பு விவரங்கள்,,,2025-06-02 06:38:51,True,True,False,2,Partial_Entry,35,54,0
+309,loading important folders,இறங்கு முக்கியமான அவைகள்,डाउनलोड करें महत्वपूर्ण फोल्डर,From web interface,2025-06-02 06:43:34,True,True,True,3,Complete_Triplet,25,24,30
+310,loading important attachments ,இறங்கு முக்கியமான இணைப்புகள்,,,2025-06-02 06:45:16,True,True,False,2,Partial_Entry,30,28,0
+311,search lion,தேடு சிங்கம் மான் உண்கிறது,,,2025-06-02 06:47:29,True,True,False,2,Partial_Entry,11,26,0
+312,Please submit the document for review,மதிப்பாய்வுக்காக ஆவணத்தைச் சமர்ப்பிக்கவும்,,,2025-06-02 06:59:01,True,True,False,2,Partial_Entry,37,42,0
+313,document,ஆவணம்,दस्तावेज़,,2025-06-02 06:59:01,True,True,True,3,Complete_Triplet,8,5,9
+314,signed,கையொப்பமிடப்பட்ட,,,2025-06-02 06:59:02,True,True,False,2,Partial_Entry,6,16,0
+315,The document needs to be signed,ஆவணத்தில் கையொப்பமிட வேண்டும்,,,2025-06-02 06:59:02,True,True,False,2,Partial_Entry,31,29,0
+316,Set priority to high for this task,இந்த பணிக்கு முன்னுரிமையை உயர்வாக அமைக்கவும்,,,2025-06-02 06:59:02,True,True,False,2,Partial_Entry,34,44,0
+317,priority,முன்னுரிமை,,,2025-06-02 06:59:02,True,True,False,2,Partial_Entry,8,10,0
+318,This is a priority message,க்கு க்கு க்கு முன்னுரிமை செய்தி,,,2025-06-02 06:59:02,True,True,False,2,Partial_Entry,26,32,0
+319,please,தயவுசெய்து,,,2025-06-02 07:01:31,True,True,False,2,Partial_Entry,6,10,0
+320,submit,சமர்ப்பித்தல்,,,2025-06-02 07:01:31,True,True,False,2,Partial_Entry,6,13,0
+321,please submit attachments,தயவுசெய்து சமர்ப்பித்தல் இணைப்புகள்,,,2025-06-02 07:01:31,True,True,False,2,Partial_Entry,25,35,0
+322,test,சான்று,,,2025-06-02 07:01:32,True,True,False,2,Partial_Entry,4,6,0
+323,this is a test,இந்த இருக்கிறது ஒரு சான்று,,,2025-06-02 07:01:32,True,True,False,2,Partial_Entry,14,26,0
+324,ready,தயாராக,,,2025-06-02 07:01:32,True,True,False,2,Partial_Entry,5,6,0
+325,the document is ready,அந்த ஆவணம் இருக்கிறது தயாராக,,,2025-06-02 07:01:32,True,True,False,2,Partial_Entry,21,28,0
+326,The document is important,அந்த ஆவணம் இருக்கிறது முக்கியமான,,,2025-06-02 07:04:56,True,True,False,2,Partial_Entry,25,32,0
+327,important lion,முக்கியமான தேடு சிங்கம் மான் உண்கிறது,,,2025-06-02 08:01:16,True,True,False,2,Partial_Entry,14,37,0
+328,underline high priority date,கீச் கோடு ஏறுது முன்னுரிமை தேதி,,,2025-06-02 08:04:02,True,True,False,2,Partial_Entry,28,31,0
+329,Puthiya,புதிய,,,2025-06-04 05:29:15,True,True,False,2,Partial_Entry,7,5,0
+330,Being loaded...,ஏற்றப்படுகிறது...,,,2025-06-04 05:29:15,True,True,False,2,Partial_Entry,15,17,0
+331,Everything,அனைத்தையும்,,,2025-06-04 05:33:55,True,True,False,2,Partial_Entry,10,11,0
+332,Forest,காட்டு,,,2025-06-04 05:33:55,True,True,False,2,Partial_Entry,6,6,0
+333,,புள்ளி பட்டிம்,,,2025-06-04 05:53:39,False,True,False,1,Partial_Entry,0,14,0
+334,Retaliation,பதிலடி,,,2025-06-04 05:54:05,True,True,False,2,Partial_Entry,11,6,0
+335,,செய்தி உள்ளடக்கம்,,,2025-06-04 05:54:30,False,True,False,1,Partial_Entry,0,17,0
+336,,விவரங்களை மறை,,,2025-06-04 06:01:45,False,True,False,1,Partial_Entry,0,13,0
+337,world,,मानवजाति,,2025-06-04 06:02:15,True,False,True,2,Partial_Entry,5,0,8
+338,Document,,दस्तावेज़,,2025-06-04 06:02:16,True,False,True,2,Partial_Entry,8,0,8
+339,Important message,முக்கியமான செய்தி,महत्वपूर्ण संदेश,,2025-06-04 06:02:18,True,True,True,3,Complete_Triplet,17,17,16
+340,,,नमस्ते दुनिया,,2025-06-04 06:02:21,False,False,True,1,Partial_Entry,0,0,13
+341,,பூமி,दुनिया,,2025-06-04 06:02:25,False,True,True,2,Partial_Entry,0,4,6
+342,,வணக்கம் பூமி,नमस्ते दुनिया,,2025-06-04 06:02:25,False,True,True,2,Partial_Entry,0,12,13
+343,,அடுத்த,अगला,,2025-06-04 06:02:27,False,True,True,2,Partial_Entry,0,6,4
+344,World,உலகம்,दुनिया,,2025-06-04 06:02:29,True,True,True,3,Complete_Triplet,5,5,6
+345,,வணக்கம் உலகம்,नमस्ते संसार,,2025-06-04 06:02:29,False,True,True,2,Partial_Entry,0,13,12
+346,,முந்தைய,पूर्व,,2025-06-04 06:02:33,False,True,True,2,Partial_Entry,0,7,5
+347,,புதிய மெயில்,,,2025-06-04 06:02:54,False,True,False,1,Partial_Entry,0,12,0
+348,,படிக்காததை காட்டு,,,2025-06-04 06:05:53,False,True,False,1,Partial_Entry,0,17,0
+349,Mailai,மெயிலை,,,2025-06-04 06:07:34,True,True,False,2,Partial_Entry,6,6,0
+350,,மெயிலை தேடு,,,2025-06-04 06:07:35,False,True,False,1,Partial_Entry,0,11,0
+351,Elevation,மேல்ேற்றம்,,,2025-06-04 06:10:51,True,True,False,2,Partial_Entry,9,10,0
+352,Mobility,நடைபேறுதல்,,,2025-06-04 06:10:52,True,True,False,2,Partial_Entry,8,10,0
+353,,மேல்ேற்றம் நடைபேறுதல்,,,2025-06-04 06:10:52,False,True,False,1,Partial_Entry,0,21,0
+354,Mundettu,முன்னேற்று,,,2025-06-04 06:11:55,True,True,False,2,Partial_Entry,8,10,0
+355,viewer,,दर्शक,API translation of 'viewer',2025-06-04 06:30:57,True,False,True,2,Partial_Entry,6,0,5
+356,Document viewer,,दस्तावेज़ दर्शक,Word-by-word translation of 'Document viewer',2025-06-04 06:30:57,True,False,True,2,Partial_Entry,15,0,14
+357,Hello world World,வணக்கம் உலகம்,नमस्ते दुनिया,Word-by-word translation of 'नमस्ते दुनिया',2025-06-04 06:30:57,True,True,True,3,Complete_Triplet,17,13,13
+358,,காட்டி,कट्ठी,API translation of 'காட்டி',2025-06-04 06:30:58,False,True,True,2,Partial_Entry,0,6,5
+359,,ஆவணம் காட்டி,दस्तावेज़ कट्ठी,Word-by-word translation of 'ஆவணம் காட்டி',2025-06-04 06:30:58,False,True,True,2,Partial_Entry,0,12,15
+360,,விளையாட்டு,व्यूअर,API translation of 'व्यूअर',2025-06-04 06:30:59,False,True,True,2,Partial_Entry,0,10,6
+361,,ஆவணம் விளையாட்டு,दस्तावेज़ व्यूअर,Word-by-word translation of 'दस्तावेज़ व्यूअर',2025-06-04 06:30:59,False,True,True,2,Partial_Entry,0,16,16
+362,beautiful,அழகான,,API translation of 'beautiful',2025-06-04 06:31:00,True,True,False,2,Partial_Entry,9,5,0
+363,Hello beautiful world,வணக்கம் அழகான உலகம்,,Word-by-word translation of 'Hello beautiful world',2025-06-04 06:31:00,True,True,False,2,Partial_Entry,21,19,0
+364,browser,,ब्राउज़र,API translation of 'browser',2025-06-04 06:31:01,True,False,True,2,Partial_Entry,7,0,8
+365,Document browser,,दस्तावेज़ ब्राउज़र,Word-by-word translation of 'Document browser',2025-06-04 06:31:01,True,False,True,2,Partial_Entry,16,0,17
+366,Sundar,,सुंदर,API translation of 'सुंदर',2025-06-04 06:31:01,True,False,True,2,Partial_Entry,6,0,5
+367,Hello world Sundar World,,नमस्ते सुंदर दुनिया,Word-by-word translation of 'नमस्ते सुंदर दुनिया',2025-06-04 06:31:02,True,False,True,2,Partial_Entry,24,0,19
+368,email settings,மின்னஞ்சல் அமைப்புகள்,ईमेल सेटिंग्स,Settings menu,2025-06-04 06:49:44,True,True,True,3,Complete_Triplet,14,21,13
+369,attachment download failed,இணைப்பு பதிவிறக்கம் தோல்வியடைந்தது,अटैचमेंट डाउनलोड विफल,Error message,2025-06-04 06:49:45,True,True,True,3,Complete_Triplet,26,34,21
+370,high priority message,உயர் முன்னுரிமை செய்தி,उच्च प्राथमिकता संदेश,Message priority,2025-06-04 06:49:45,True,True,True,3,Complete_Triplet,21,22,21
+371,file compression settings,கோப்பு சுருக்க அமைப்புகள்,फ़ाइल संपीड़न प्रारूप,From web interface,2025-06-04 06:49:46,True,True,True,3,Complete_Triplet,25,25,21
+372,folder,கோப்புறை,फोल्डर,From web interface,2025-06-04 06:53:51,True,True,True,3,Complete_Triplet,6,8,6
+373,forest,காட்டு,जंगल,From web interface,2025-06-04 06:54:15,True,True,True,3,Complete_Triplet,6,6,4
+374,folder deleted,கோப்புறை நீக்கு,फोल्डर डिलीट हो गया,From web interface,2025-06-04 06:54:41,True,True,True,3,Complete_Triplet,14,15,19
+375,loading important files,இறங்கு முக்கியமான அவைகள்,डाउनलोड करें महत्वपूर्ण फाइल अटैच करें,From web interface,2025-06-04 06:55:25,True,True,True,3,Complete_Triplet,23,24,38
+376,there is a big folder that is stored inside the repo,கோப்புறை,यह है एक आकार फोल्डर वह है सेव करें ऑन यह रीसेट करें,From web interface,2025-06-05 07:14:50,True,True,True,3,Complete_Triplet,52,8,52
+377,there was an old man that had lived in here 100 years ago,100 ஆண்டுகளுக்கு முன்பு இங்கு ஒரு முதியவர் வசித்து வந்தார்.,ऑन किसको एक तारांकित एक वह किसको रद्द करें में ऑन நமஸ்தே किसको पिछला,From web interface,2025-06-05 07:15:14,True,True,True,3,Complete_Triplet,57,59,68
+378,it is said that the dinosaurs have went extinct millions of years ago,100 ஆண்டுகளுக்கு முன்பு இங்கு ஒரு முதியவர் வசித்து வந்தார்.,ऐसा कहा जाता है कि डायनासोर लाखों वर्ष पहले विलुप्त हो गए थे।,From web interface,2025-06-05 07:15:41,True,True,True,3,Complete_Triplet,69,59,61
+379,the biggest land carnivore is the polar bear,சிங்கம் மான் உண்கிறது,यह आकार मानवजाति अताच करें है यह सुविधाजनक बोल्ड,From web interface,2025-06-05 07:16:25,True,True,True,3,Complete_Triplet,44,21,48
+380,there have been multiple cases if the coronavirus thatt's  being reported all across India,இந்தியா முழுவதும் பதிவாகும் கொரோனா வைரஸ் பாதிப்புகளின் எண்ணிக்கை அதிகமாக இருந்தால்,यदि भेजने वाला,From web interface,2025-06-05 07:17:02,True,True,True,3,Complete_Triplet,90,82,14
+381,delete folder,கோப்புறை நீக்கு,फोल्डर डिलीट करें,From web interface,2025-06-05 07:17:19,True,True,True,3,Complete_Triplet,13,15,17
+382,Zoho Projects enabled me to better manage the people. I had no idea how they worked before,வரைவுகள்,स्नूज़ ड्राफ्ट सक्षम करें ऑन किसको ठीक रद्द करें यह किसको ऑन किसको नहीं ऑन किसको यह सफलता पिछला,From web interface,2025-06-23 17:02:25,True,True,True,3,Complete_Triplet,90,8,95
+383,Zoho Projects 7: First Impressions & Feedback,வரைவுகள்,ज़ोहो प्रोजेक्ट्स 7: प्रथम प्रभाव और प्रतिक्रिया,From web interface,2025-06-23 17:02:47,True,True,True,3,Complete_Triplet,45,8,48
+384,app.title,,app.title,Sarvam API translation,2025-06-23 17:02:56,True,False,True,2,Partial_Entry,9,0,9
+385,navigation.inbox,navigation.inbox,,Sarvam API translation,2025-06-23 17:02:56,True,True,False,2,Partial_Entry,16,16,0
+386,compose.send,,compose.send,Sarvam API translation,2025-06-23 17:02:56,True,False,True,2,Partial_Entry,12,0,12
+387,Thank you,நன்றி,,Sarvam API translation,2025-06-23 17:02:56,True,True,False,2,Partial_Entry,9,5,0
+388,Good morning,,शुभ प्रभात,Sarvam API translation,2025-06-23 17:02:57,True,False,True,2,Partial_Entry,12,0,10
+389,Male,,मेल,Sarvam API translation,2025-06-23 17:02:57,True,False,True,2,Partial_Entry,4,0,3
+390,How are you?,எப்படி இருக்கிறீர்கள்??,,Sarvam API translation,2025-06-23 17:02:57,True,True,False,2,Partial_Entry,12,23,0
+391,I am fine,,मैं ठीक हूँ।,Sarvam API translation,2025-06-23 17:02:58,True,False,True,2,Partial_Entry,9,0,12
+392,It has helped us to achieve about 300% growth rate for our business.,இது எங்கள் வணிகத்திற்கு 300% வளர்ச்சி விகிதத்தை அடைய உதவியது.,किसको किसको अताच करें ऑन किसको सफलता किसको நமஸ்தே आरोही रद्द करें के लिए ऑन ऑन,From web interface,2025-06-23 17:03:26,True,True,True,3,Complete_Triplet,68,61,78
+393,"Before Zoho, we were chained to the desk at the office, after Zoho, we can be anywhere and be in charge of our projects",வரைவுகள்,होना स्नूज़ ऑन ऑन में किसको यह दस्तावेज़ ऑन यह का अगला स्नूज़ ऑन किसको होना ऑन और होना में डाउनलोड करें का ऑन ड्राफ्ट,From web interface,2025-06-23 17:04:09,True,True,True,3,Complete_Triplet,119,8,117
+394,Namasat,,नमसत,Sarvam API translation,2025-06-23 17:04:41,True,False,True,2,Partial_Entry,7,0,4
+395,How are you today?,,आप कैसे हैं??,Sarvam API translation,2025-06-23 17:05:20,True,False,True,2,Partial_Entry,18,0,13
+396,I love programming,எனக்கு நிரலாக்கம் மிகவும் பிடிக்கும்.,,Sarvam API translation,2025-06-23 17:05:20,True,True,False,2,Partial_Entry,18,37,0
+397,"Before Zoho, we were chained to the desk","ஜோஹோவிற்கு முன்பு, நாங்கள் மேசையுடன் பிணைக்கப்பட்டிருந்தோம்.",,Sarvam API translation,2025-06-23 17:13:44,True,True,False,2,Partial_Entry,40,60,0
+398,Each project has came together because of Zoho Project's ease of use and the ability to add new members to the team with just a click of the mouse.,"ஜோஹோ திட்டத்தின் எளிதான பயன்பாட்டின் காரணமாகவும், மவுஸ் கிளிக்கில் குழுவிற்கு புதிய உறுப்பினர்களைச் சேர்க்கும் திறனின் காரணமாகவும் ஒவ்வொரு திட்டமும் ஒன்றாக இணைந்துள்ளன.",,Sarvam API translation,2025-06-23 17:17:36,True,True,False,2,Partial_Entry,147,168,0
+399,Zoho Projects has allowed my organization to grow by utilizing its ability to manage all of our projects in a very systematic and procedural manner.,ஜோஹோ ப்ராஜெக்ட்ஸ் எனது நிறுவனத்திற்கு அதன் அனைத்து திட்டங்களையும் மிகவும் முறையான மற்றும் நடைமுறையான முறையில் நிர்வகிப்பதற்கான திறனைப் பயன்படுத்துவதன் மூலம் வளர அனுமதித்துள்ளது.,,Sarvam API translation,2025-06-23 17:23:31,True,True,False,2,Partial_Entry,148,177,0
+400,MRProcessi is a Consultancy Firm from Ecuador that is devoted to improve operations in private and public organizations.,"எம்ஆர்ப்ரோசெஸ்ஐ என்பது ஈக்வடாரைச் சேர்ந்த ஒரு ஆலோசனை நிறுவனம், இது தனியார் மற்றும் பொது நிறுவனங்களின் செயல்பாடுகளை மேம்படுத்த அர்ப்பணிக்கப்பட்டுள்ளது.",,Sarvam API translation,2025-06-24 09:31:33,True,True,False,2,Partial_Entry,120,150,0
+401,"Project Management Decoded
+Previous
+1. What are projects?
+A project is a series of tasks that need to be completed within a specified time, in order to achieve the planned outcome. The planning, scheduling, tracking, and collaboration are overseen by one or many project managers, depending on how complex the project is. Project management is the process of piloting teams towards their predefined goals within the specified time through planning, tracking, and execution, usually under the guidance of a project manager — an online project management tool assists with getting the best outcome.
+
+2. Why do businesses need project management platforms?
+Project management allows businesses to plan efficiently, without straying from the big picture. When everyone knows what they're working on, a positive working environment is fostered. Moreover, with project management, teams can allocate each member with an optimum amount of work that they are accountable for, laying the foundation for proper resource utilization. It also helps with consistent tracking so that your teams know where your project stands at every juncture, leading to increased productivity.
+
+3. How does project management platform work?
+Project management gives your project purpose, a framework, and a ground-plan, through planning, tracking, collaboration and execution of tasks that are assigned to resources. With project management, you can streamline all the processes required to attain your goals, keep everyone in the loop through continuous communication, track every phase of the project closely and move past hiccups. It helps your teams stay organized, stay on the same page, and stay accountable!
+
+4. What are the benefits of using project management?
+Monitoring every stage allows for rigorous tracking of the project, phase by phase. Streamlining processes and having people accountable for their tasks helps do away with clutter and confusion. Project management helps identify bottlenecks so that you can swiftly swerve across bottlenecks to avoid any slips, trips and falls. Communication within and across teams becomes efficient and seamless when your teams are on the same page, thereby helping you achieve your ultimate target.","Project Management Decoded
+Previous
+1. What are projects?
+A project is a series of tasks that need to be completed within a specified time, in order to achieve the planned outcome. The planning, scheduling, tracking, and collaboration are overseen by one or many project managers, depending on how complex the project is. Project management is the process of piloting teams towards their predefined goals within the specified time through planning, tracking, and execution, usually under the guidance of a project manager — an online project management tool assists with getting the best outcome.
+
+2. Why do businesses need project management platforms?
+Project management allows businesses to plan efficiently, without straying from the big picture. When everyone knows what they're working on, a positive working environment is fostered. Moreover, with project management, teams can allocate each member with an optimum amount of work that they are accountable for, laying the foundation for proper resource utilization. It also helps with consistent tracking so that your teams know where your project stands at every juncture, leading to increased productivity.
+
+3. How does project management platform work?
+Project management gives your project purpose, a framework, and a ground-plan, through planning, tracking, collaboration and execution of tasks that are assigned to resources. With project management, you can streamline all the processes required to attain your goals, keep everyone in the loop through continuous communication, track every phase of the project closely and move past hiccups. It helps your teams stay organized, stay on the same page, and stay accountable!
+
+4. What are the benefits of using project management?
+Monitoring every stage allows for rigorous tracking of the project, phase by phase. Streamlining processes and having people accountable for their tasks helps do away with clutter and confusion. Project management helps identify bottlenecks so that you can swiftly swerve across bottlenecks to avoid any slips, trips and falls. Communication within and across teams becomes efficient and seamless when your teams are on the same page, thereby helping you achieve your ultimate target.",,Sarvam API translation,2025-06-25 06:16:11,True,True,False,2,Partial_Entry,2226,2226,0
+402,"Project Management Decoded
+Previous
+1. What are projects?
+A project is a series of tasks that need to be completed within a specified time, in order to achieve the planned outcome. The planning, scheduling, tracking, and collaboration are overseen by one or many project managers, depending on how complex the project is. Project management is the process of piloting teams towards their predefined goals within the specified time through planning, tracking, and execution, usually under the guidance of a project manager — an online project management tool assists with getting the best outcome.","திட்ட மேலாண்மை விளக்கம் முந்தைய 1. திட்டங்கள்? திட்டம் என்பது ஒரு குறிப்பிட்ட காலக்கெடுவிற்குள் திட்டமிடப்பட்ட முடிவை அடைய வேண்டிய பணிகளின் தொடர். திட்டமிடல், திட்டமிடல், கண்காணிப்பு மற்றும் ஒத்துழைப்பு ஆகியவை ஒன்று அல்லது பல திட்ட மேலாளர்களால் மேற்பார்வையிடப்படுகின்றன, இது திட்டம் எவ்வளவு சிக்கலானது என்பதைப் பொறுத்து. திட்ட மேலாண்மை என்பது திட்டமிடல், கண்காணிப்பு மற்றும் செயல்படுத்தல் மூலம், பொதுவாக ஒரு திட்ட மேலாளரின் வழிகாட்டுதலின் கீழ், குறிப்பிட்ட காலத்திற்குள் தங்கள் முன்கூட்டியே தீர்மானிக்கப்பட்ட இலக்குகளை நோக்கி அணிகளை வழிநடத்தும் செயல்முறையாகும் - ஒரு ஆன்லைன் திட்ட மேலாண்மை கருவி சிறந்த முடிவை பெற உதவுகிறது.",,Sarvam API translation,2025-06-25 06:16:30,True,True,False,2,Partial_Entry,596,624,0
+403,"Project management allows businesses to plan efficiently, without straying from the big picture. When everyone knows what they're working on, a positive working environment is fostered. Moreover, with project management, teams can allocate each member with an optimum amount of work that they are accountable for, laying the foundation for proper resource utilization. It also helps with consistent tracking so that your teams know where your project stands at every juncture, leading to increased productivity.","திட்ட மேலாண்மை வணிகங்கள் பெரிய படத்திலிருந்து விலகிச் செல்லாமல் திறமையாக திட்டமிட அனுமதிக்கிறது. அனைவரும் தாங்கள் என்ன வேலை செய்கிறீர்கள் என்பது தெரிந்திருக்கும் போது, ஒரு நேர்மறையான பணிச் சூழல் வளர்கிறது. மேலும், திட்ட மேலாண்மை மூலம், குழுக்கள் ஒவ்வொரு உறுப்பினருக்கும் உகந்த அளவு வேலையை ஒதுக்கலாம், அவர்கள் அதற்கு பொறுப்பு வகிக்கிறார்கள், இது சரியான வளப் பயன்பாட்டிற்கு அடித்தளமாக அமைகிறது. இது நிலையான கண்காணிப்புக்கு உதவுகிறது, அதனால் உங்கள் குழுக்கள் ஒவ்வொரு கட்டத்திலும் உங்கள் திட்டம் எங்கே நிற்கிறது என்பதை அறிந்து, அதிகரித்த உற்பத்தித்திறனை அடைகின்றன.",,Sarvam API translation,2025-06-25 06:18:05,True,True,False,2,Partial_Entry,511,560,0
+404,hello the lion's name is simba,சிங்கத்தின் பெயர் சிம்பா.,,Sarvam API translation,2025-06-25 06:22:32,True,True,False,2,Partial_Entry,30,25,0
