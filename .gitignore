@@ -1,7 +1,9 @@
 # Database files
-*.db
+# Exclude all database files except translation_memory.db
 *.sqlite
 *.sqlite3
+# Specific database files to ignore (but not translation_memory.db)
+*_test.db
 
 # Resource files
 *.properties
